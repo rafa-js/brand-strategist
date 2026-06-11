@@ -35,23 +35,6 @@ Every template carries `{{placeholders}}`, authoring guidance, and a completion 
 
 ## Installation
 
-<details open>
-<summary><b><code>npx skills</code> (recommended)</b></summary>
-
-Installs via the open [agent skills CLI](https://github.com/vercel-labs/skills), which works with Claude Code and 60+ other agents:
-
-```bash
-npx skills add rafa-js/brand-strategy-skill
-```
-
-To target Claude Code explicitly:
-
-```bash
-npx skills add rafa-js/brand-strategy-skill -a claude-code
-```
-
-</details>
-
 <details>
 <summary><b>Claude Code plugin</b></summary>
 
@@ -65,6 +48,23 @@ Add this repo as a plugin marketplace, then install the plugin:
 Once installed, the skill triggers automatically on brand questions; the explicit form is `/brand-strategy:brand-strategy`. Updates arrive on new commits via `/plugin marketplace update brand-strategy-skill`.
 
 Since this repo is private, installation requires access to it. If the clone fails, make sure your SSH key is loaded in `ssh-agent`, or set `GITHUB_TOKEN` so the marketplace can clone over HTTPS.
+
+</details>
+
+<details>
+<summary><b><code>npx skills</code></b></summary>
+
+Installs via the open [agent skills CLI](https://github.com/vercel-labs/skills), which works with Claude Code and 60+ other agents:
+
+```bash
+npx skills add rafa-js/brand-strategy-skill
+```
+
+To target Claude Code explicitly:
+
+```bash
+npx skills add rafa-js/brand-strategy-skill -a claude-code
+```
 
 </details>
 
