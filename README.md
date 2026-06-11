@@ -53,13 +53,13 @@ Every template carries `{{placeholders}}`, authoring guidance, and a completion 
 Installs via the open [agent skills CLI](https://github.com/vercel-labs/skills), which works with Claude Code and 60+ other agents:
 
 ```bash
-npx skills add rjseibane/brand-strategy-skill
+npx skills add rafa-js/brand-strategy-skill
 ```
 
 To target Claude Code explicitly:
 
 ```bash
-npx skills add rjseibane/brand-strategy-skill -a claude-code
+npx skills add rafa-js/brand-strategy-skill -a claude-code
 ```
 
 </details>
@@ -70,7 +70,7 @@ npx skills add rjseibane/brand-strategy-skill -a claude-code
 Clone the repo and copy the skill folder into your skills directory:
 
 ```bash
-git clone https://github.com/rjseibane/brand-strategy-skill.git
+git clone https://github.com/rafa-js/brand-strategy-skill.git
 
 # personal install (all your projects)
 cp -r brand-strategy-skill/brand-strategy ~/.claude/skills/
