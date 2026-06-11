@@ -14,6 +14,8 @@ If the user actually wants brand strategy help (positioning a product, auditing 
 | `brand-strategy/SKILL.md` | Skill entry point. The frontmatter `description` is the trigger surface; the body defines workflow, deliverable selection, dependency chain, and conventions. |
 | `brand-strategy/references/` | **Canonical, edited in place.** `frameworks.md` at the root is the always-read index and compact distillation; `frameworks/` holds the 6 full framework references; `templates/` holds the 7 document templates. |
 | `brand-strategy.skill` | Packaged zip of `brand-strategy/`, committed for direct download. Rebuild after any skill change. |
+| `.claude-plugin/marketplace.json` | Marketplace manifest: makes the repo addable via `/plugin marketplace add rafa-js/brand-strategy-skill`. Lists one plugin sourced from `./brand-strategy`. |
+| `brand-strategy/.claude-plugin/plugin.json` | Plugin manifest: the skill folder doubles as a single-skill Claude Code plugin (root `SKILL.md` is auto-discovered). Inert for the other install flows. |
 | `README.md` | GitHub-facing: purpose, what the skill generates, installation, usage. |
 
 ## Sources of truth and packaging
@@ -27,7 +29,7 @@ Everything the skill ships lives in `brand-strategy/` and is edited in place. Th
    ```
 3. **Reinstall locally** to test: `cp -r brand-strategy ~/.claude/skills/`
 
-**Distribution constraint: exactly one skill.** Never add a `SKILL.md` anywhere outside `brand-strategy/` (including `.claude/skills/`). The `npx skills` CLI scans the whole repo for `SKILL.md` files, and this repo must offer users exactly one installable skill.
+**Distribution constraint: exactly one skill.** Never add a `SKILL.md` anywhere outside `brand-strategy/` (including `.claude/skills/`). The repo distributes through three flows (the `npx skills` CLI, the Claude Code plugin marketplace, and the `.skill` zip), and all of them must offer users exactly one installable skill. The `npx skills` CLI scans the whole repo for `SKILL.md` files; the plugin flow auto-discovers the root `SKILL.md` of `brand-strategy/`. Keep both JSON manifests version-free so plugin updates track commits without a version-bump step.
 
 A change is not done until the edited file, the `.skill` zip, and (if templates or document flow changed) the README's "What It Generates" section all agree.
 

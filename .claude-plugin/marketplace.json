@@ -1,0 +1,14 @@
+{
+  "name": "brand-strategy-skill",
+  "owner": { "name": "Rafa", "url": "https://github.com/rafa-js" },
+  "description": "Brand strategy skill applying the Ries/Trout methodology",
+  "plugins": [
+    {
+      "name": "brand-strategy",
+      "source": "./brand-strategy",
+      "description": "Brand strategist grounded in Positioning, the 22 Immutable Laws, Origin of Brands, PR-first launches, Visual Hammer, and Contagious (STEPPS). Template-driven strategy documents, audits, and decision recommendations.",
+      "category": "productivity",
+      "keywords": ["brand", "marketing", "positioning", "strategy"]
+    }
+  ]
+}

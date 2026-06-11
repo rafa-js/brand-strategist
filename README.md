@@ -15,18 +15,6 @@ Instead of generic marketing advice, the skill runs a disciplined methodology: i
 
 It's packaged as an [Agent Skill](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills): a folder of instructions, framework references, and templates that Claude loads on demand. It works in Claude Code out of the box and in any agent that supports the skills format.
 
-## Why This Skill?
-
-Ask a bare LLM for brand advice and you get the average of everything ever written about marketing: agreeable, additive, and contradictory. This skill exists to prevent exactly that.
-
-- **It has opinions.** Line extensions get challenged by default. Convergence plays get flagged. "Better advertising" is never the answer to a positioning problem. The skill will tell you your brand name is wrong, which a people-pleasing chatbot won't.
-- **One coherent methodology, not a blend.** Six books that share a single worldview (the battle is for the mind, focus beats breadth, credibility precedes awareness), with a fixed hierarchy for when they conflict. You get a consistent strategic posture, not a different framework every session.
-- **Accountable recommendations.** Every prescription names the law it stands on and a real brand that proved it or died ignoring it. You can check the reasoning, not just trust the vibes.
-- **Documents, not chat fragments.** Discovery questions first, then complete deliverables from templates with quality-gate checklists. The output is a strategy package you can hand to a designer, a PR firm, or an investor.
-- **Subtractive by design.** Most brand advice adds: more features, more audiences, more channels. This methodology cuts until what remains is ownable. The prescriptions that survive are the ones you can actually execute.
-
-If you want a brainstorming partner that says yes to everything, this is the wrong skill. If you want a strategist that argues back, install it.
-
 ## What It Generates
 
 **Launching a new brand (or repositioning one)?** You get a five-document strategy package, produced in order, each locking decisions the next inherits:
@@ -61,6 +49,22 @@ To target Claude Code explicitly:
 ```bash
 npx skills add rafa-js/brand-strategy-skill -a claude-code
 ```
+
+</details>
+
+<details>
+<summary><b>Claude Code plugin</b></summary>
+
+Add this repo as a plugin marketplace, then install the plugin:
+
+```
+/plugin marketplace add rafa-js/brand-strategy-skill
+/plugin install brand-strategy@brand-strategy-skill
+```
+
+Once installed, the skill triggers automatically on brand questions; the explicit form is `/brand-strategy:brand-strategy`. Updates arrive on new commits via `/plugin marketplace update brand-strategy-skill`.
+
+Since this repo is private, installation requires access to it. If the clone fails, make sure your SSH key is loaded in `ssh-agent`, or set `GITHUB_TOKEN` so the marketplace can clone over HTTPS.
 
 </details>
 
@@ -121,3 +125,15 @@ Expect to be interviewed before you get strategy: the methodology requires four 
 - **Law-grounded:** every recommendation names its principle and cites a brand that executed it (or died ignoring it). The full framework references (all 22 Laws, the positioning concepts, divergence, PR-first sequencing, visual hammer criteria, the STEPPS shareability levers) are bundled in the skill, so it works standalone.
 - **Opinionated guardrails:** line extensions are challenged by default; convergence plays get flagged; advertising is never prescribed to fix a positioning problem; claims must survive an adversarial expert interview.
 - **When frameworks conflict**, they resolve in a fixed hierarchy: Positioning → 22 Laws → Origin of Brands → PR before advertising → Visual Hammer → Contagious (shareability serves the story).
+
+## Why this?
+
+Ask a bare LLM for brand advice and you get the average of everything ever written about marketing: agreeable, additive, and contradictory. This skill exists to prevent exactly that.
+
+- **It has opinions.** Line extensions get challenged by default. Convergence plays get flagged. "Better advertising" is never the answer to a positioning problem. The skill will tell you your brand name is wrong, which a people-pleasing chatbot won't.
+- **One coherent methodology, not a blend.** Six books that share a single worldview (the battle is for the mind, focus beats breadth, credibility precedes awareness), with a fixed hierarchy for when they conflict. You get a consistent strategic posture, not a different framework every session.
+- **Accountable recommendations.** Every prescription names the law it stands on and a real brand that proved it or died ignoring it. You can check the reasoning, not just trust the vibes.
+- **Documents, not chat fragments.** Discovery questions first, then complete deliverables from templates with quality-gate checklists. The output is a strategy package you can hand to a designer, a PR firm, or an investor.
+- **Subtractive by design.** Most brand advice adds: more features, more audiences, more channels. This methodology cuts until what remains is ownable. The prescriptions that survive are the ones you can actually execute.
+
+If you want a brainstorming partner that says yes to everything, this is the wrong skill. If you want a strategist that argues back, install it.
