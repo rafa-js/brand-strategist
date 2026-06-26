@@ -1,6 +1,6 @@
-# Brand Strategy: A Claude Skill
+# Brand Strategist
 
-> _Brainstorm your brand strategy_
+> _Brainstorm your brand strategy with Claude_
 
 This skill turns your agent into brand strategist grounded in brand strategy playbooks:
 - *Positioning*
