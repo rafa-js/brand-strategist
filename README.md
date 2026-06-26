@@ -9,7 +9,7 @@ This skill turns your agent into brand strategist grounded in brand strategy pla
 - *The Fall of Advertising and the Rise of PR*
 - *Visual Hammer*
 
-It also draws on Jonah Berger's *Contagious: Why Things Catch On* to make PR stories travel by word of mouth.
+It also draws on Jonah Berger's *Contagious: Why Things Catch On* to make PR stories travel by word of mouth, and on Marty Neumeier's *Zag*, *The Brand Gap*, and *Scramble* for radical differentiation (the onliness statement), the bridge from strategy to design, and agile strategy.
 
 Instead of generic marketing advice, the skill runs a disciplined methodology: it interviews you first (product, competition, current position, business goal), picks the right deliverable, and produces complete strategy documents from battle-tested templates. Every recommendation names the specific law it's grounded in and cites a real brand that proved it.
 
@@ -23,8 +23,8 @@ It's packaged as an [Agent Skill](https://www.anthropic.com/engineering/equippin
 |---|----------|---------------|
 | 1 | **Market Research** | The evidence base: why the incumbent framework fails, competitive landscape with per-competitor deep dives, market trends, all converging on the strategic gap your brand will claim |
 | 2 | **Brand Strategy** | The hub: brand name, category to create, the one word to own, product-through-the-strategy, naming rationale, strategic guardrails, decisions log |
-| 3 | **Positioning** | Positioning statement, tagline (with evolution path), elevator pitch, positioning tests, competitive repositioning map, language discipline (always say / never say) |
-| 4 | **Visual Identity** | The visual hammer: symbol, color (chosen by category contrast), typography, app icon, design language, every choice anchored to the verbal position |
+| 3 | **Positioning** | Onliness statement (Zag's "the only" test), positioning statement, tagline (with evolution path), elevator pitch, positioning tests, competitive repositioning map, language discipline (always say / never say) |
+| 4 | **Visual Identity** | The visual hammer: symbol, color (chosen by category contrast), typography, app icon, design language, swap-tested for distinctiveness, every choice anchored to the verbal position |
 | 5 | **PR Narrative** | The launch: core story, three-act narrative, ranked media angles, STEPPS shareability check, outlet tiers, influencer strategy, week-by-week sequencing. PR before advertising, always |
 
 **Diagnosing a struggling brand?** You get an audit report: a sweep of which of the 22 Laws are being violated (with evidence and severity), position assessment, visual-verbal alignment check, advertising-vs-credibility check, root-cause synthesis, and ranked prescriptions that subtract rather than add.
@@ -122,16 +122,16 @@ Expect to be interviewed before you get strategy: the methodology requires four 
 ## The Methodology
 
 - **One lens for every decision:** does this make the brand clearer, more focused, and more ownable in the mind of the prospect?
-- **Law-grounded:** every recommendation names its principle and cites a brand that executed it (or died ignoring it). The full framework references (all 22 Laws, the positioning concepts, divergence, PR-first sequencing, visual hammer criteria, the STEPPS shareability levers) are bundled in the skill, so it works standalone.
+- **Law-grounded:** every recommendation names its principle and cites a brand that executed it (or died ignoring it). The full framework references (all 22 Laws, the positioning concepts, divergence, PR-first sequencing, visual hammer criteria, the STEPPS shareability levers, the onliness statement and radical differentiation, the five brand disciplines, and the agile-strategy method) are bundled in the skill, so it works standalone.
 - **Opinionated guardrails:** line extensions are challenged by default; convergence plays get flagged; advertising is never prescribed to fix a positioning problem; claims must survive an adversarial expert interview.
-- **When frameworks conflict**, they resolve in a fixed hierarchy: Positioning → 22 Laws → Origin of Brands → PR before advertising → Visual Hammer → Contagious (shareability serves the story).
+- **When frameworks conflict**, they resolve in a fixed hierarchy: Positioning → 22 Laws → Origin of Brands → PR before advertising → Visual Hammer → Contagious (shareability serves the story). Neumeier's three reinforce the spine without overriding it: Zag sharpens the position (the onliness statement), The Brand Gap bridges it to design, and Scramble is how you run the work.
 
 ## Why this?
 
 Ask a bare LLM for brand advice and you get the average of everything ever written about marketing: agreeable, additive, and contradictory. This skill exists to prevent exactly that.
 
 - **It has opinions.** Line extensions get challenged by default. Convergence plays get flagged. "Better advertising" is never the answer to a positioning problem. The skill will tell you your brand name is wrong, which a people-pleasing chatbot won't.
-- **One coherent methodology, not a blend.** Six books that share a single worldview (the battle is for the mind, focus beats breadth, credibility precedes awareness), with a fixed hierarchy for when they conflict. You get a consistent strategic posture, not a different framework every session.
+- **One coherent methodology, not a blend.** Nine books that share a single worldview (the battle is for the mind, focus beats breadth, credibility precedes awareness, be the only and not the better), with a fixed hierarchy for when they conflict. You get a consistent strategic posture, not a different framework every session.
 - **Accountable recommendations.** Every prescription names the law it stands on and a real brand that proved it or died ignoring it. You can check the reasoning, not just trust the vibes.
 - **Documents, not chat fragments.** Discovery questions first, then complete deliverables from templates with quality-gate checklists. The output is a strategy package you can hand to a designer, a PR firm, or an investor.
 - **Subtractive by design.** Most brand advice adds: more features, more audiences, more channels. This methodology cuts until what remains is ownable. The prescriptions that survive are the ones you can actually execute.
