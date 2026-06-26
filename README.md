@@ -9,7 +9,9 @@ This skill turns your agent into brand strategist grounded in brand strategy pla
 - *The Fall of Advertising and the Rise of PR*
 - *Visual Hammer*
 
-It also draws on Jonah Berger's *Contagious: Why Things Catch On* to make PR stories travel by word of mouth, and on Marty Neumeier's *Zag*, *The Brand Gap*, and *Scramble* for radical differentiation (the onliness statement), the bridge from strategy to design, and agile strategy.
+It also draws on:
+- Jonah Berger's *Contagious: Why Things Catch On* to make PR stories travel by word of mouth
+- Marty Neumeier's *Zag*, *The Brand Gap*, and *Scramble* for radical differentiation (the onliness statement), the bridge from strategy to design, and agile strategy.
 
 Instead of generic marketing advice, the skill runs a disciplined methodology: it interviews you first (product, competition, current position, business goal), picks the right deliverable, and produces complete strategy documents from battle-tested templates. Every recommendation names the specific law it's grounded in and cites a real brand that proved it.
 
