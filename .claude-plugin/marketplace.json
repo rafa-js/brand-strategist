@@ -4,7 +4,7 @@
   "description": "Brand strategy skill applying the Ries/Trout methodology, extended with Neumeier and Berger",
   "plugins": [
     {
-      "name": "brand-strategy",
+      "name": "brand-strategist",
       "source": "./brand-strategy",
       "description": "Brand strategist grounded in Positioning, the 22 Immutable Laws, Origin of Brands, PR-first launches, Visual Hammer, Contagious (STEPPS), and Marty Neumeier's Zag, The Brand Gap, and Scramble. Template-driven strategy documents, audits, and decision recommendations.",
       "category": "productivity",
