@@ -1,6 +1,6 @@
 # The Frameworks
 
-Compact working reference for the six frameworks the templates cite: five Ries/Trout playbooks plus Jonah Berger's Contagious for word-of-mouth design. Use it to name the right law in recommendations and to run the audit's 22-Laws sweep.
+Compact working reference for the nine frameworks the templates cite: five Ries/Trout playbooks, Jonah Berger's Contagious for word-of-mouth design, and Marty Neumeier's three brand-design books (Zag, The Brand Gap, Scramble) for radical differentiation and agile strategy. Use it to name the right law in recommendations and to run the audit's 22-Laws sweep.
 
 Each framework also has a full reference in this directory — with extended brand examples, step-by-step application frameworks, and common-mistakes lists. Read the full reference when a deliverable leans heavily on that framework:
 
@@ -12,6 +12,9 @@ Each framework also has a full reference in this directory — with extended bra
 | Fall of Advertising, Rise of PR | [fall-of-advertising-rise-of-pr.md](frameworks/fall-of-advertising-rise-of-pr.md) | PR narratives (doc 5), media mix decisions, launch sequencing |
 | Contagious (STEPPS) | [contagious-berger.md](frameworks/contagious-berger.md) | PR narratives (doc 5): core story shareability, angles, influencer and social strategy |
 | Visual Hammer | [visual-hammer-laura-ries.md](frameworks/visual-hammer-laura-ries.md) | Visual identity briefs (doc 4), logo/color/symbol evaluation |
+| Zag (Neumeier) | [zag-neumeier.md](frameworks/zag-neumeier.md) | Radical differentiation and the onliness statement (docs 2–3), white-space and category-creation calls |
+| The Brand Gap (Neumeier) | [brand-gap-neumeier.md](frameworks/brand-gap-neumeier.md) | The strategy-to-design bridge, the five disciplines, charisma, naming and validation (docs 2 and 4) |
+| Scramble (Neumeier) | [scramble-neumeier.md](frameworks/scramble-neumeier.md) | Agile strategy (5Qs × 5Ps) for running or unsticking the work itself; reframing the brief, prototyping the docs |
 
 ## Positioning (Ries & Trout, 1981)
 
@@ -86,3 +89,32 @@ Six levers (STEPPS) for engineering word of mouth into the PR narrative. Shareab
 - **One color.** Pick the color the category leader doesn't own and use it with ruthless consistency. Multicolor works only when variety/completeness IS the position (NBC's peacock, Google).
 - **Hammer candidates:** a shape, a color, a product form, a package, a founder, a symbol, an action. Test: distinctive in the category, meaningful to the position, simple enough to work at 16 pixels.
 - **Consistency over novelty.** Hammers gain force through repetition over years; redesigns that chase fashion throw the accumulated equity away.
+
+## Zag (Marty Neumeier, 2007)
+
+Radical differentiation: when everybody zigs, zag. The operational sharpener for Positioning and Origin of Brands: it hands you the instrument to find and build the word the brand owns.
+
+- **Be the only, not the better.** "Better" invites comparison with the incumbent; "only" ends it. In a cluttered market, small differences read as no difference.
+- **The onliness statement.** "Our \_\_\_ is the only \_\_\_ that \_\_\_." If you can't complete it truthfully, you don't have a zag. Sharpen it with WHAT (category), HOW (point of difference), WHO (audience), WHERE (market), WHY (need state), WHEN (trend). This is a stricter, more buildable form of the positioning statement.
+- **Focus by subtraction.** A zag requires sacrifice; often the zag is removing what the category treats as mandatory (Google's near-empty page, In-N-Out's tiny menu, Cirque du Soleil dropping the animals).
+- **White space, enemy, tribe, wave.** Find the empty spot on the brandscape; name an enemy to sharpen contrast; design for the tribe that will love you most; ride a real rising trend, not a fad.
+- **Extend with new zags, not line extension.** Grow a portfolio of focused brands; never stretch one name until it owns nothing (echoes the Law of Line Extension and divergence).
+
+## The Brand Gap (Marty Neumeier, 2003)
+
+A brand is a person's gut feeling about a product, service, or organization: not what you say it is, what they say it is. The bridge between business strategy (logic, left brain) and design (magic, right brain); brands die in the gap between the two.
+
+- **Charisma is the goal.** A charismatic brand is one for which people believe there's no substitute (Apple, Harley-Davidson, IKEA). It is the escape from the commodity price war, and any brand can earn it.
+- **Five disciplines.** **Differentiate** (Who are you? What do you do? Why does it matter?), **Collaborate** (orchestrate the network around one vision via a brand steward), **Innovate** (design to look like nobody else; name well), **Validate** (test light with real people), **Cultivate** (the brand as a living system, true to itself over time).
+- **The swap test.** If you can swap your name, logo, color, or tagline with a competitor's and it still works, it isn't distinctive enough. (Reinforces the opposite test and hammer distinctiveness.)
+- **Aim for identification.** Differentiation evolved from features to benefits to experience to identification ("this brand is me"). Identification is the durable end of the ladder.
+
+## Scramble (Marty Neumeier, 2018)
+
+Agile strategy: run strategy like a design process, in fast loops, in weeks not quarters. Governs *how* the work is done, not which position is right — the working method layered on top of the position theory.
+
+- **5 Qs × 5 Ps = agile strategy.** Apply the five Ps of design thinking to the five Qs of strategy, worked in parallel, to collapse 6–18 months into under six weeks.
+- **The five Qs:** Purpose (why we exist), Customer (who we serve), Category (where we compete), Positioning (how we win, answered with the onliness statement), Culture (how we grow).
+- **The five Ps:** Problemizing (frame the real problem behind the problem), Pinballing (generate many options), Probing (examine from multiple angles), Prototyping (build a rough model to test fast), Proofing (test with the market; keep what survives).
+- **Abductive reasoning.** Strategy is the logic of "what could be," not just "what is." Design the future from first principles; build to think; reframe before you solve.
+- **Use it when** the work has to move fast or has stalled: treat the five-document set as prototypes to iterate, not a waterfall, and reframe the brief before prescribing.

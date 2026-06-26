@@ -26,6 +26,7 @@ Every visual decision encodes this. Not "{{adjacent idea the visuals must NOT en
 | **Emotional tone** | {{how it should make the prospect feel — and the feeling it must NOT produce}} |
 | **Connection to the name** | {{degree of name–symbol–position unity; total unity is the strongest architecture}} |
 | **Uniqueness in category** | {{inventory what competitors own visually; is this space genuinely empty?}} |
+| **Swap test** | {{The Brand Gap (Neumeier): swap this symbol for a competitor's. Does the brand still read correctly? If yes, it isn't distinctive enough.}} |
 | **Reduction test** | {{does it work at 32x32px? in black & white?}} |
 | **Cultural precedent** | {{a famous proof the motif is iconic and legible — borrowed familiarity, unclaimed category}} |
 | **Animation/motion** | {{the signature motion, if any, and where it plays}} |
@@ -147,6 +148,7 @@ Typography:      {{style}}, {{case}} "{{Brand}}"
 > - ☐ Verbal nail locked at top, identical to doc 3
 > - ☐ Every visual decision traceably encodes the nail
 > - ☐ Competitor color/symbol inventory done (including sibling approaches)
+> - ☐ Swap test passed: the hammer fails when swapped onto a competitor (it is genuinely distinctive)
 > - ☐ ≥3 rejected hammer candidates recorded with reasons
 > - ☐ Reduction test passes at 16px
 > - ☐ Hierarchy rules protect the position (the differentiator leads visually)

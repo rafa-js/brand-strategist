@@ -19,6 +19,19 @@ Not "{{rejected word — and whose it is}}." Not "{{rejected word}}." **{{The wo
 
 ## Positioning Architecture
 
+### Onliness Statement (the differentiation test)
+
+> 📋 Zag's radical-differentiation test (Neumeier, 2007). Fill in the blank, forcing the word **only**: if you can't complete it truthfully, the position is "better," not "different," and needs more work before continuing. Then sharpen it with the six qualifiers. This is the buildable source for the single-sentence position below; keep the two consistent.
+
+> **Our {{offering}} is the only {{category}} that {{point of difference}}.**
+
+- **WHAT** (category): {{the category being led}}
+- **HOW** (the only): {{the radical differentiator no competitor can also claim}}
+- **WHO** (audience): {{the prospect, defined by attitude}}
+- **WHERE** (market): {{the geography or segment}}
+- **WHY** (need state): {{the need this serves that others miss}}
+- **WHEN** (trend): {{the rising wave the position rides — not a fad}}
+
 ### Single-Sentence Position (External)
 
 > **{{Brand}} is the {{category}} that {{owns word/concept}} for {{target prospect defined by attitude}}.**
@@ -55,6 +68,7 @@ Not "{{rejected word — and whose it is}}." Not "{{rejected word}}." **{{The wo
 | Test | Result |
 |------|--------|
 | **One word/concept?** | {{the word — ownable? unclaimed? structurally unavailable to competitors?}} |
+| **Radical differentiation (the only?)** | {{Onliness statement true and defensible: "the only," not merely "better"? Or does it collapse into a me-too claim a competitor could also make?}} |
 | **Category clear?** | {{category name — new? first mover?}} |
 | **Opposite test** | "{{the opposite position}}" — viable? Whose is it? {{Pass/fail}} |
 | **Name reinforcement** | {{Does the name encode the position? Are name and position the same idea?}} |
@@ -127,6 +141,7 @@ Not "{{rejected word — and whose it is}}." Not "{{rejected word}}." **{{The wo
 
 > 📋 **Completion checklist — delete when done:**
 > - ☐ The word is singular, unclaimed, and defended against named alternatives
+> - ☐ Onliness statement completes truthfully with "only" and is consistent with the single-sentence position
 > - ☐ Positioning statement matches doc 2 exactly
 > - ☐ Opposite test passes with a named real competitor holding the opposite
 > - ☐ Every "What {{Brand}} Calls Them" line is fair, memorable, and never false
