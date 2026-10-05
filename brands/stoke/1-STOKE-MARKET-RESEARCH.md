@@ -15,7 +15,7 @@ Working assumptions not stated in the brief, to confirm: an English-language lau
 
 ## EXECUTIVE SUMMARY
 
-Adaptive fueling works, and its users say so. The science is settled: athletes should eat "in relation to sport rather than general daily targets" (Thomas, Erdman and Burke, 2016), and amateur marathoners who followed a science-based race carbohydrate strategy ran 4.7% faster (Hansen et al., 2014). Fuelin, the closest competitor, turns that science into daily targets that adapt to training, and its five-star reviews praise it for taking "the guesswork out." But the fueling apps were built for the committed few. Fuelin offers no free trial ("Fuelin works best when you're all in"), charges $139 a year, features Olympic and Ironman champions and sells coaching for up to $1,500 a month. In 142 hand-coded low-rated reviews, 61% raise price, the missing trial or billing, and the top product complaints are logging (28%) and integrations (23%). The category has reached few people: Fuelin reported about 3,000 monthly age-group athletes (2025), while HYROX reports more than 1.5 million participants and London drew 1.34 million ballot applications. Distribution, not accuracy, decided the last round of food apps: Cal AI drew about twenty times the monthly downloads of the better-validated SnapCalorie (Sensor Tower estimates). Yet **no product combines proven adaptive fueling with a free start, a price near the trackers', sync with the plans amateurs follow and amateur-led distribution.** The science is copyable; the access is the gap.
+Adaptive fueling works, and its users say so. The science is settled: athletes should eat "in relation to sport rather than general daily targets" (Thomas, Erdman and Burke, 2016), and amateur marathoners who followed a science-based race carbohydrate strategy ran 4.7% faster (Hansen et al., 2014). Fuelin, the closest competitor, turns that science into daily targets that adapt to training, and its five-star reviews praise it for taking "the guesswork out." But the fueling apps were built for the committed few. Fuelin offers no free trial ("Fuelin works best when you're all in"), charges $139 a year, features Ironman world champions and sells coaching for up to $1,500 a month. In 142 hand-coded low-rated reviews, 61% raise price, the missing trial or billing, and the top product complaints are logging (28%) and integrations (24%). The category has reached few people: Fuelin reported about 3,000 monthly age-group athletes (2025), while HYROX reports more than 1.5 million participants and London drew 1.34 million ballot applications. Distribution, not accuracy, decided the last round of food apps: Cal AI drew about twenty times the monthly downloads of the better-validated SnapCalorie (Sensor Tower estimates). Yet **no product combines proven adaptive fueling with a free start, a price near the trackers', sync with the plans amateurs follow and amateur-led distribution.** The science is copyable; the access is the gap.
 
 ## PART 1: WHY TODAY'S TOOLS FAIL PEOPLE WHO TRAIN
 
@@ -25,16 +25,16 @@ Adaptive fueling works, and its users say so. The science is settled: athletes s
 - **Naming the food is largely solved; measuring it is not.** MyFitnessPal identified 97% of food components and Foodvisor 87%, yet energy errors on mixed dishes ran from -76% (pearl milk tea) to +270% (bibimbap) (Li et al., *Nutrients*, 2024). Carbohydrate error fell from 56.6% to 20.2% when the model was told the true weight: portion is the bottleneck (Mu et al., ACM BCB 2025).
 - **General AI models miss protein worst.** GPT-4o and Claude 3.5 Sonnet estimated energy with 35.8% mean absolute percentage error and protein with about 61%; the authors call them "not yet suitable for precise dietary assessment in clinical or athletic populations" (Fridolfsson et al., *Current Developments in Nutrition*, 2025).
 - **The label itself is approximate by law.** US rules treat a food as misbranded only if its calories run more than 20% above the label, and accept "reasonable deficiencies" below it (21 CFR 101.9(g)(5)-(6)). Reduced-energy restaurant meals measured 18% above stated values on average, with wide variability (Urban et al., 2010); standard Atwater factors overestimate the energy in almonds by 32% (Novotny et al., 2012).
-- **Both sides of the budget are noisy.** Athletes under-report intake by 19% against doubly labelled water (Capling et al., 2017, 11 studies), and no wrist device estimated energy expenditure within 20% (Shcherbina et al., 2017). A daily calorie budget subtracts one noisy number from another.
+- **Both sides of the budget are noisy.** Athletes under-report intake by 19% against doubly labelled water (Capling et al., 2017, 11 studies), and no wrist device estimated energy expenditure within 20% (Shcherbina et al., 2017). A fixed daily budget subtracts one noisy number from another, which is why useful targets are ranges that learn from weight trend over weeks, not precise daily quotas.
 - **Fair counterpoint.** Careful manual entry works: MyFitnessPal energy values correlated with a national reference database at r = 0.96 after cleaning (Evenepoel et al., 2020) and came within 3.7% of weighed intake in a supervised trial (Diktas et al., 2025). The NIH team called the photo error "similar to previously reported underestimation using self-report." The verdict is not that counting is useless; it is that the calorie total is fragile exactly where apps use it as a precise budget, and weaker still in athletes: in endurance athletes MyFitnessPal "showed poor validity for total energy, carbohydrates, protein" (Morello et al., 2025).
 
-### 1.2 The Concept Is Wrong: the calorie answers a dieter's question
+### 1.2 The Concept Is Wrong: a fixed weight-loss budget answers a dieter's question
 
 - **Sports nutrition is periodized to sessions, not budgeted by day.** The joint position of the American College of Sports Medicine, the Academy of Nutrition and Dietetics and Dietitians of Canada: "Nutrition goals and requirements are not static," and support "needs to be periodized, taking into account the needs of daily training sessions" (Thomas, Erdman and Burke, 2016).
 - **The same athlete needs very different fuel on different days.** Daily carbohydrate targets run from 3-5 g/kg for light, skill-based days to 8-12 g/kg for very high loads; during exercise, 30-60 g/h for sessions of 1 to 2.5 hours and up to 90 g/h beyond 2.5-3 hours (Thomas et al., 2016). For a 70 kg athlete that is roughly 210-350 g of carbohydrate on a light day and 560-840 g on a very heavy one.
 - **The same food earns opposite verdicts by context.** The same position stand recommends "nutrient-rich carbohydrate sources" for daily fueling, sources "low in fibre/residue" for carbohydrate loading, and avoiding "choices high in fat/protein/fibre" before events to reduce gastrointestinal risk (Thomas et al., 2016). The Australian Institute of Sport lists white bread, jam, rice cakes, honey and flat cola among food-first alternatives to gels (Forbes, Burke et al., *Sports Medicine Open*, 2026).
 - **Health scores were not built for this, by their makers' own account.** Nutri-Score "cannot be used" for sport nutrition products because it "was developed in regard to the needs of the general population, whereas sport nutrition must meet particular needs" (Santé publique France, Nutri-Score Q&A, 17 March 2025). Nutri-Score rates a food per 100 g and NOVA classifies it by degree of processing; neither has an input for the eater, the training day or the timing (Sarda et al., 2024).
-- **Calories still matter to athletes, as a floor.** The sport's own under-fueling measure, energy availability, is calculated in kcal per kg of fat-free mass, and chronic values below about 30 are associated with impairment (Thomas et al., 2016). The defensible claim is not that energy is irrelevant; it is that a weight-loss budget is the wrong use of it for people who train.
+- **Calories still matter to athletes: as targets that move with training, and as a floor.** The sport's own under-fueling measure, energy availability, is calculated in kcal per kg of fat-free mass, and chronic values below about 30 are associated with impairment (Thomas et al., 2016). The defensible claim is not that energy is irrelevant; it is that a fixed weight-loss budget is the wrong use of it for people who train.
 - **Authority quote**: "Sports nutrition guidelines should also consider the importance of the timing of nutrient intake and nutritional support over the day and in relation to sport rather than general daily targets." (Thomas, Erdman and Burke, ACSM/AND/DC joint position, 2016)
 
 **Exhibit: how general-health scores grade common fueling foods** (Open Food Facts product pages, read 5 October 2026)
@@ -94,6 +94,7 @@ Reading it fairly: grades depend on crowd-entered categories (one SiS GO barcode
 | **Cronometer** | "What nutrients am I actually getting?" | 13M+ users (company) | 4.8 (99K) | Gold $59.99/yr | A precise ledger with no training context |
 | **Hexis** | "How many carbs does my training need today?" | Elite: claims about 40% of Tour de France riders; consumer: 29 US ratings | 2.7 (29, US) | €129.99/yr | Endurance-first; no free trial; logging "is the grind" (Roadman Cycling, 2026) |
 | **Fuelin** | "What should I eat today, and when?" | 65K+ downloads; about 3,000 monthly age-group athletes (company, 2025) | 4.5 (1.3K) | $139/yr; coach tier $399/yr | No free trial by policy; premium price; logging and integration complaints (see below) |
+| **Mavr** | "How should I fuel my endurance or HYROX training?" | 8 US ratings | 4.1 (8) | $79.99/yr; offers from $39.99 | Requires a subscription to use; endurance-first |
 | **FoodCoach** | "What should I eat today, per my plan?" | Small | 2.6 (14) | $60/yr | Meal plans; no photo logging |
 | **Yuka** | "Is this product healthy?" | About 89.5M users (company counter) | 4.8 (100K) | Freemium | 30% of the score is additives; packaged goods; no context |
 | **ZOE** | "Is this food good for my long-term health?" | 200K+ gut tests; free US app | n/a | £119.88/yr (ZOE 2.0) | Health-for-everyone score; marks fast carbohydrate down |
@@ -176,7 +177,7 @@ Hexis owns the science of fueling and the elite proof, and Carb Coding is the cl
 - **Independent findings:** none beyond store ratings and reviews; "over 3000 monthly age-group athletes" (company, April 2025) indicates modest scale. What its 144 four- and five-star reviews praise is the part worth copying: taking the guesswork out of what and when to eat ("Takes away the guesswork"), energy and results in training and racing, targets "planned around my Trainingpeaks sessions," Smart Meals ("The smart meals are GOAT") and access to human coaches.
 
 **User Complaints / Weaknesses**
-- In 142 hand-coded one-to-three-star reviews from nine countries (January 2023 to October 2026): price 31%, logging 28%, no free trial 28%, integrations 23%, targets seen as wrong, unrealistic or unsafe 20%, billing, cancellation or support 20%, bugs 18%, interface complexity 16%, AI quality 15%, rigid meal structure 13%, marketing that over-promises 10%. 61% raise price, the missing trial or billing.
+- In 142 hand-coded one-to-three-star reviews from nine countries (January 2023 to October 2026): price 31%, logging 28%, no free trial 28%, integrations including planned workouts 24%, targets seen as wrong, unrealistic or unsafe 20%, billing, cancellation or support 20%, bugs 18%, interface complexity 16%, AI quality 15%, rigid meal structure 13%, marketing that over-promises 10%. 61% raise price, the missing trial or billing.
 - In reviewers' words: "They push you through a long quiz first, capture all your data, and then nonchalantly hit you with a $29/month paywall. No trial." "I train through runna and this app doesn't support a connection to it." "This app has wanted me to skip meals and fast through heavy training." "It wants me to eat breakfast at 7am and dinner at 6pm."
 
 **Assessment**
@@ -224,7 +225,7 @@ The platforms own the training data and the wrist, and they are converging food 
 
 ### What Users Complain About
 
-Hand-coded one-to-three-star App Store reviews, pulled from Apple's public review feeds on 5 October 2026. Each review was read and given every label that applied, so columns add up to more than 100%. Fuelin: 142 reviews from nine countries (January 2023 to October 2026). Hexis: 37 from five countries (May 2023 to August 2026). MacroFactor: 187 from four countries (September 2021 to September 2026).
+Hand-coded one-to-three-star App Store reviews, pulled from Apple's public review feeds on 5 October 2026. Each review was read and given every label that applied, so columns add up to more than 100%. Fuelin: 142 reviews from nine countries (January 2023 to October 2026). Hexis: 37 from three countries (May 2023 to August 2026). MacroFactor: 187 from four countries (September 2021 to September 2026).
 
 | Complaint | Fuelin | Hexis | MacroFactor |
 |-----------|--------|-------|-------------|
@@ -232,7 +233,7 @@ Hand-coded one-to-three-star App Store reviews, pulled from Apple's public revie
 | No free trial or free tier | 28% | 3% | 21% |
 | Billing, cancellation or support | 20% | 24% | 11% |
 | Logging (clunky entry, database gaps, units) | 28% | 54% | 40% |
-| Integrations, including planned workouts | 23% | 16% | 4% |
+| Integrations, including planned workouts | 24% | 16% | 4% |
 | Targets seen as wrong, unrealistic or unsafe | 20% | 5% | 12% |
 | Bugs and performance | 18% | 54% | 14% |
 | Interface complexity | 16% | 22% | 13% |
@@ -266,15 +267,16 @@ Prices from each app's US App Store in-app purchase list, 5 October 2026, unless
 | MyFitnessPal | $19.99 | $79.99 | Yes | Yes (Premium) | None |
 | Cronometer | $10.99 | $59.99 (Gold) | Yes | Not checked | None |
 | Lose It! | $9.99 | $39.99 | Yes | Not checked | Lifetime $49.99-$59.99 |
+| Mavr | $14.99 | $79.99 (offers from $39.99) | No ("requires an active auto-renewing subscription") | Not stated | None |
 | Cal AI | Varies | $29.99 | Not checked | Not checked | None |
 
-The adaptive fueling apps charge roughly twice what the large trackers do and offer neither a free tier nor a trial. Among the apps reviewed, none pairs adaptive, session-based targets with a free tier, a trial and a tracker-level price.
+None of the session-based fueling apps reviewed (Fuelin, Hexis, Mavr) offers a free tier, and their listings and FAQs offer no trial. Fuelin and Hexis charge roughly twice what the large trackers do; Mavr prices near them but has 8 US ratings. Among the apps reviewed, none pairs session-based targets with a free tier, a trial and a tracker-level price.
 
 ### How They Reach Users
 
 | Brand | How it reaches users |
 |-------|----------------------|
-| Fuelin | Pro endurance endorsements (Jan Frodeno, Daniela Ryf, Holly Lawrence, Ben Kanute and others on its homepage), endurance events (a gravel cyclist "discovered Fuelin at Unbound 200"), articles and the "Fuelin Sessions" podcast, its own coaches and the TrainingPeaks integration. Reviewers mention Facebook ads ("Don't believe the FB hype"), "a high volume of marketing emails" and social-media recommendations. |
+| Fuelin | Pro endurance endorsements (Jan Frodeno, Daniela Ryf, Holly Lawrence, Ben Kanute and others on its homepage), endurance events (a gravel cyclist "discovered Fuelin at Unbound 200"), articles and the "Fuelin Sessions" podcast, its own coaches and the TrainingPeaks integration. A few reviewers mention Facebook ads ("Don't believe the FB hype"), "a high volume of marketing emails" and social-media recommendations. |
 | Hexis | Elite teams (World Tour cycling, Premier League football) and coaching platforms, a disclosed media partnership (Roadman Cycling) and a funded direct-to-consumer push (June 2026). |
 | MyFitnessPal | Scale and habit (280 million+ members), App Store search, the HYROX Tampa title partnership with in-app fueling content, and the Cal AI acquisition. |
 | Cal AI | Influencer marketing (its COO ran it) and TikTok, credited by observers for its rise; AI search terms drove a quarter of its search downloads (Sensor Tower, 2026). |
@@ -288,7 +290,7 @@ Distribution, not accuracy, decided the last round of food apps: Cal AI drew an 
 
 **Approach 2: The adaptive macro algorithm.** Used by: MacroFactor, RP Diet Coach, Carbon. Strength: rigorous, and trusted by evidence-minded lifters. Weakness (structural): built around body-weight trend, measured over days and weeks rather than sessions.
 
-**Approach 3: The pro-led fueling plan.** Used by: Fuelin, Hexis, FoodCoach, Mavr. Strength: periodized, guideline-based targets that users credit with taking the guesswork out. Weakness (structural for amateurs): built and sold for the committed (no free trials, premium prices, coaching upsells, pro endorsements), with planned-session sync centered on coaching platforms.
+**Approach 3: The pro-led fueling plan.** Used by: Fuelin, Hexis, FoodCoach. Strength: periodized, guideline-based targets that users credit with taking the guesswork out. Weakness (structural for amateurs): built and sold for the committed (no free trials, premium prices, coaching upsells, pro endorsements), with planned-session sync centered on coaching platforms. Mavr, a newer endurance and HYROX app with macros that adjust to training, sits between this approach and the trackers on price ($79.99 a year) but requires a subscription to use and has 8 US ratings.
 
 **Approach 4: The general-health score.** Used by: Yuka, ZOE, Nutri-Score, Lifesum, Apple. Strength: simple, free and habitual. Weakness (structural): a per-100 g health profile with no input for training.
 
@@ -308,7 +310,7 @@ Photos undercount energy by about a third (NIH, 2026) while identifying foods we
 No free trial by policy (Fuelin's FAQ; Hexis per Roadman Cycling), prices around $130-$140 a year, a paywall that appears after a long onboarding, and cancellation complaints: 61% of Fuelin's low-rated reviews raise price, the missing trial or billing.
 
 **4. Plan blindness for amateurs (executional)**
-Adaptive targets are only as good as the plan they read. Fuelin's planned-session sync is praised for TrainingPeaks, the coached athlete's platform, while its reviewers report Runna unsupported, Garmin plans that don't populate and Strava or Final Surge workouts that update targets only after the session (integrations: 23% of low-rated reviews).
+Adaptive targets are only as good as the plan they read. Fuelin's planned-session sync is praised for TrainingPeaks, the coached athlete's platform, while its reviewers report Runna unsupported, Garmin plans that don't populate and Strava or Final Surge workouts that update targets only after the session (integrations, including planned workouts: 24% of low-rated reviews).
 
 **5. Logging burden (fundamental to every tracker)**
 Logging is a top complaint for Fuelin (28%), Hexis (54%) and MacroFactor (40%), and new MyFitnessPal users omitted 18% of foods (Chen et al., 2019). Adherence breaks where logging is slow.
@@ -329,7 +331,7 @@ Fueling apps sell pro proof to people with day jobs, and their consumer traction
 5. Logging in seconds, in grams or ounces, with a food database for each launch market and targets that never rewrite a meal already eaten
 6. Distribution through amateur communities (clubs, gyms, coaches, creators with day jobs) instead of champions and paid reach
 
-Honest reading: Fuelin covers 1, and 4 for TrainingPeaks users. Hexis covers 1 for endurance athletes. MacroFactor adapts targets to body weight, with a trial but no free tier. MyFitnessPal and Cronometer have free tiers but fixed targets. Strava owns the community channel but not fueling, and it bought Runna. No single product combines all six, and every piece is copyable: the gap is a position and an execution, not a moat.
+Honest reading: Fuelin covers 1, and 4 for TrainingPeaks users. Hexis covers 1 for endurance athletes. Mavr covers 1 and part of 3 for endurance and HYROX athletes, but requires a subscription and has 8 US ratings. MacroFactor adapts targets to body weight, with a trial but no free tier. MyFitnessPal and Cronometer have free tiers but fixed targets. Strava owns the community channel but not fueling, and it bought Runna. No single product combines all six, and every piece is copyable: the gap is a position and an execution, not a moat.
 
 This is the strategic gap.
 
@@ -413,8 +415,8 @@ This is the strategic gap.
 | Fuelin scale and price | 65K+ downloads; 4.5 stars on 1,267 US ratings; Autopilot $29/month or $139/year, Copilot $99/month or $399/year | Fuelin; US App Store, 5 October 2026 |
 | Fuelin's free-trial policy | "We don't offer a free trial" | Fuelin FAQ, October 2026 |
 | Fuelin 1:1 coaching | $1,500/month; consultation $500 for 60 minutes | fuelin.com/coaches, October 2026 |
-| Fuelin low-rated reviews raising price, trial or billing | 61% of 142 (hand-coded) | US/EU App Store reviews, January 2023 to October 2026 |
-| Fuelin low-rated review complaints | Price 31%, logging 28%, no trial 28%, integrations 23%, targets 20% | Same |
+| Fuelin low-rated reviews raising price, trial or billing | 61% of 142 (hand-coded) | App Store reviews from nine countries, January 2023 to October 2026 |
+| Fuelin low-rated review complaints | Price 31%, logging 28%, no trial 28%, integrations 24%, targets 20% | Same |
 | Logging complaints in low-rated reviews | Fuelin 28%, Hexis 54%, MacroFactor 40% | Same feeds, hand-coded |
 | Fuelin's most praised theme | "Takes the guesswork out" (~70 of 144 four- and five-star reviews) | Same feeds |
 | Tracker prices (yearly) | MacroFactor $71.99 (7-day trial, no free tier); MyFitnessPal $79.99; Cronometer $59.99; Lose It! $39.99; Cal AI $29.99 | US App Store, 5 October 2026 |
@@ -434,7 +436,7 @@ This is the strategic gap.
 
 2. **The leader has noticed the athlete and is answering with line extension.** Cal AI "for performance-oriented members," a HYROX Tampa sponsorship and an AI Coach bolt performance content onto a calorie counter. The incumbent has validated the demand without changing its unit.
 
-3. **Adaptive fueling is proven and wanted; its users praise the science and complain about access.** Fuelin's most praised theme is taking "the guesswork out" (about 70 of 144 positive reviews), while 61% of its low-rated reviews raise price, the missing trial or billing, and the top product complaints are logging (28%) and integrations (23%). The fundamentals can be copied; the access can be rebuilt.
+3. **Adaptive fueling is proven and wanted; its users praise the science and complain about access.** Fuelin's most praised theme is taking "the guesswork out" (about 70 of 144 positive reviews), while 61% of its low-rated reviews raise price, the missing trial or billing, and the top product complaints are logging (28%) and integrations (24%). The fundamentals can be copied; the access can be rebuilt.
 
 4. **The fueling apps were built for the committed few, and it shows in their reach.** No free trials, prices of $130-$140 a year, coaching ladders up to $1,500 a month and champions on the homepage. Fuelin reported about 3,000 monthly age-group athletes in 2025 and has 1,267 US ratings; Hexis has 29. And "fuel" is taken: Fuelin carries it in its name and Hexis built its science story on it.
 

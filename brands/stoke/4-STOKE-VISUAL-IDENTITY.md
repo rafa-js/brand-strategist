@@ -10,11 +10,11 @@ Every visual decision encodes this. Not "the podium": pro kit, elite athletes, l
 
 ### Primary Hammer: The Ember (a glowing coal that brightens as the day's fueling tracks your targets)
 
-**Concept:** a single ember: a soft, rounded, faceted coal that glows from the inside. It is the logo mark, the app icon and the in-app picture of progress in one. Across the day, its glow shows how well your meals are tracking today's targets; when a meal falls short of what the next session needs, it rests cool grey, never red and never an X. When a key session is fueled (the night-before check comes back "You're set"), the ember draws a breath, brightens and sends up three sparks. Like the Coca-Cola contour bottle or the Aflac duck, it is a concrete image rather than an abstract mark, so it carries meaning from the first day.
+**Concept:** a single ember: a soft, rounded, faceted coal that glows from the inside. It is the logo mark, the app icon and the in-app picture of progress in one. Across the day, its glow shows how well your meals are tracking today's targets; when the day's eating falls well short of what the next session needs, it rests cool grey, never red and never an X. When a key session is fueled (the night-before check comes back "You're set"), the ember draws a breath, brightens and sends up three sparks. Like the Coca-Cola contour bottle or the Aflac duck, it is a concrete image rather than an abstract mark, so it carries meaning from the first day.
 
 | Attribute | Assessment |
 |-----------|------------|
-| **What it encodes** | "Fueling for the life you already have.": nobody keeps a fire going with one giant log; it stays alive through small, regular stokes. Each meal fueled for the work ahead is a stoke, and the fire is the training an amateur keeps going around a day job. |
+| **What it encodes** | "Fueling for the life you already have.": a fire you keep going yourself, in the life you have, with no furnace and no pit crew: small, regular stokes between work and training. Each meal fueled for the work ahead is a stoke. Re-tested against this nail, the ember still wins, because it pictures self-reliant, everyday care rather than a regimen or a podium. |
 | **Emotional tone** | Warm, steady, reassuring: the feeling of being ready for tomorrow. It must never produce guilt, alarm, the chill of a lab result or the judgment of a grade. |
 | **Connection to the name** | Total. You stoke embers: the name is the action (fueling for the work ahead) and the ember is its object (the fire you keep going). Name, symbol and position are one idea: small, regular stokes keep a fire burning. |
 | **Uniqueness in category** | Inventory: progress rings (Apple's Activity rings and the calorie-remaining rings common in tracker dashboards); traffic-light color codes (Hexis's green/amber/red Carb Coding, Fuelin's red/yellow/green carb guide, Nutri-Score's A to E); semicircular gauges (the visual language of wearable readiness and strain scores); chevrons (Strava); plain wordmarks (Cal AI). No food or fitness brand reviewed uses an ember. The space is empty. |
@@ -41,7 +41,7 @@ How far from a target counts as "well short" is a starting point for design and 
 
 **A podium or medal.** Tempting because it speaks to ambition. It fails because it is the pros' imagery, the opposite of the word Stoke owns, and it turns food into a competition. **Discarded.**
 
-**A meal calendar or checklist.** Tempting because adaptive targets are the product's core. It fails because the plan view is the category's shared language (the fundamentals Stoke copies on purpose), so it cannot distinguish Stoke, and as a symbol it says "second job." **Discarded.**
+**A meal calendar or checklist.** Tempting because adaptive targets are the product's core. It fails because the plan view is the category's shared language (the fundamentals Stoke copies on purpose), so it cannot distinguish Stoke. **Discarded.**
 
 **The fuel gauge needle.** Tempting because "E to F" reads as energy. It fails because semicircular gauges already read as readiness and strain on wearables, and "fuel" is the root of Fuelin's name. **Discarded.**
 
@@ -70,7 +70,7 @@ Competitor colors above were read from each brand's own website code on 5 Octobe
 
 ### Color Usage Rule: The Heat Gradient Means Progress
 
-The crimson-to-core heat gradient appears only when the day is on track or a key session is fueled, and on brand marks. Meals that fall short, errors and warnings never use crimson; they use cool grey and plain language. If crimson ever signals a problem, the hammer stops meaning "you're set," and every competitor's red-for-bad convention swallows it.
+The crimson-to-core heat gradient appears only when the day is on track or a key session is fueled, and on brand marks. Days that fall short, errors and warnings never use crimson; they use cool grey and plain language. If crimson ever signals a problem, the hammer stops meaning "you're set," and every competitor's red-for-bad convention swallows it.
 
 ### Colors Rejected
 
@@ -87,7 +87,7 @@ The crimson-to-core heat gradient appears only when the day is on track or a key
 - Ember Black, around #1C1517 (backgrounds: a warm, red-brown black, the coal the glow comes out of, distinct from Runna's neutral #161616)
 - Ash, around #EDEAE6 (light-mode surfaces)
 - Core Glow, around #FFC98A (accent, reserved: only inside the ember's heat gradient, never a standalone color, so it never drifts toward Fuelin or HYROX yellow)
-- Cool Grey, around #8B8B94 (cold and neutral states: meals short of the next session's needs, inactive elements)
+- Cool Grey, around #8B8B94 (cold and neutral states: days short of the next session's needs, inactive elements)
 - Bone, around #F4F1EC, on dark; Coal Text, around #1C1C21, on light (text)
 
 ## Typography
@@ -146,7 +146,7 @@ Typography:      Heavy rounded grotesk, lowercase "stoke"
 | Element | Decision |
 |---------|----------|
 | **Primary visual hammer** | The Ember: a glowing coal that brightens as the day's fueling tracks your targets and flares when a key session is fueled |
-| **Color** | Stoke Crimson (starting at #E0245E) on Ember Black (around #1C1517); the heat gradient is reserved for progress and never used for errors or meals that fall short |
+| **Color** | Stoke Crimson (starting at #E0245E) on Ember Black (around #1C1517); the heat gradient is reserved for progress and never used for errors or days that fall short |
 | **Typography** | Heavy, slightly rounded grotesk; lowercase "stoke"; plain, small numerals for targets |
 | **App icon** | A single ember glowing crimson to a warm core on a warm-black tile, no text |
 | **Design language** | Warm, physical, reassuring, plain-spoken, amateur |
