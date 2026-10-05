@@ -23,7 +23,7 @@
 "But look at who they're built for. No free trial, because the app 'works best when you're all in.' $139 a year. Olympic champions on the homepage, and coaching that costs up to $1,500 a month. Their own reviewers complain about the price, the paywall, plans that don't sync with the apps amateurs use, and logging that takes too long. Meanwhile the start pen is fuller than ever: HYROX counts more than 1.5 million participants last season, and 1.34 million people applied to run London. In one study, only about one marathoner in twenty hit their race carbohydrate target."
 
 **Act 3: Built for the start pen (deliver Stoke)**
-"Stoke copies the science and rebuilds everything around it for amateurs. Free to start, about half the price, synced to the plan you already follow, logging that takes seconds, and one swap to close the day's biggest gap. It spreads through clubs, coaches and creators with day jobs, not through champions. Fueling shouldn't ask you to go all in. Stoke works with the life you already have."
+"Stoke copies the science and rebuilds everything around it for amateurs. Free to start, about half the price, synced to the plan you already follow, logging that takes seconds, and a night-before check that tells you whether you're fueled for tomorrow. It spreads through clubs, coaches and creators with day jobs, not through champions. Fueling shouldn't ask you to go all in. Stoke works with the life you already have."
 
 Same story at every scale: press pitch, podcast interview, 60-second social video.
 
@@ -48,8 +48,8 @@ Lead with #1 and #2: #1 sets the category frame and #2 makes it concrete in a wa
 | **Triggers** | The night before a long run or heavy session, when the nudge arrives; the work lunch, the meal no plan controls; race week; Sunday shopping; and every time another app asks for a card before showing anything. |
 | **Emotion** | High-arousal indignation at being priced out and paywalled ("it wanted my data and my card before it showed me anything"), plus the surprise that fueling mostly means eating more carbohydrate before the sessions that matter. Never guilt, which is low-arousal and off-brand. |
 | **Public** | The ember on shared race-week and weekly cards, club fueling weeks, and fueling notes in Strava activity descriptions: visible, persistent residue after the launch. |
-| **Practical Value** | One-pagers that travel without the app: "The Bagel Test" (one bagel, three goals, three swaps); "Race carbohydrate per hour" (30-60 g/h for 1-2.5 hours, up to 90 g/h beyond 2.5-3 hours); "Protein per meal" (about 0.25-0.4 g/kg). |
-| **Stories** | The archetype: the amateur who thought fueling was for pros, learned that it mostly means carbohydrate before the hard sessions and protein every day, and made it work around a desk job, one swap at a time. The amateur-built app is the turning point; remove it and the story ends at the paywall. |
+| **Practical Value** | One-pagers that travel without the app: "The Bagel Test" (one bagel, three goals, three ways to top it); "Race carbohydrate per hour" (30-60 g/h for 1-2.5 hours, up to 90 g/h beyond 2.5-3 hours); "Protein per meal" (about 0.25-0.4 g/kg). |
+| **Stories** | The archetype: the amateur who thought fueling was for pros, learned that it mostly means carbohydrate before the hard sessions and protein every day, and made it work around a desk job, meal by meal. The amateur-built app is the turning point; remove it and the story ends at the paywall. |
 
 **Trojan horse test:** retold without naming Stoke, the story becomes "fueling apps work but were built for pros; amateurs need the same science, free to start, synced to their plans." The claim survives, and its ending points at one thing: a fueling app built for amateurs, the category Stoke names and the only product built to that brief. If a competitor adds a free trial, the story still holds, because the rest of the build (the price, the plan sources, the logging, the channels) does not change with one setting. Like Blendtec's "Will It Blend?", where the story cannot end without the blender, the story cannot end without the amateur's app. **Pass.**
 
@@ -71,7 +71,7 @@ Lead with #1 and #2: #1 sets the category frame and #2 makes it concrete in a wa
 | Tech and startup press | TechCrunch, The Verge, Fast Company | "The startup that copied the fueling science and changed the price": the candor angle | News, founder interview |
 | HYROX and functional-fitness media | BOXROX, Rox Lyfe, Morning Chalk Up | "More than 1.5 million racers, no fueling study," with the research partnership | News, interview |
 | Consumer and personal-finance desks | Newsletters and consumer-tech columns | "The fueling app that lets you try first" | Feature, roundup |
-| Launch platforms | Product Hunt | The stoke demo | Launch post |
+| Launch platforms | Product Hunt | The night-before check demo | Launch post |
 
 ### Tier 3: Long Tail (Post-launch, ongoing)
 
@@ -89,7 +89,7 @@ Lead with #1 and #2: #1 sets the category frame and #2 makes it concrete in a wa
 | Target | Why | How |
 |--------|-----|-----|
 | **Club and gym coaches** (HYROX affiliate gyms, run clubs, strength gyms) | They talk to amateurs every week, and the channel is the opposite of Fuelin's pros: HYROX counts about 15,000 affiliate gyms, and Strava's clubs nearly quadrupled in 2025 to 1 million. | A free coach view of their athletes' fueling consistency (with each athlete's consent), club codes that give members three months of Premium, and a club fueling-night kit. |
-| **Amateur creators with day jobs** (marathon, hybrid, lifting) | Credible because they are the tribe: their followers train around work too. | Access plus the evidence one-pager, and the single request below; their real targets and swaps become public artifacts. |
+| **Amateur creators with day jobs** (marathon, hybrid, lifting) | Credible because they are the tribe: their followers train around work too. | Access plus the evidence one-pager, and the single request below; their real targets and night-before checks become public artifacts. |
 | **Sports dietitians (RD, CSSD) active on social** | Their endorsement transfers clinical authority, and their review protects the Energy Floor. | Advisory roles, method review, co-authoring the evidence brief; paid for advisory work, never for posts. Their names on the method are the insider credential. |
 | **Training-plan apps** (Runna and HYROX's online training partners) | Their users already plan their sessions; Stoke turns those plans into targets. | Integrations and co-marketing, pending feasibility and partner terms. |
 
@@ -108,7 +108,7 @@ Lead with #1 and #2: #1 sets the category frame and #2 makes it concrete in a wa
 
 - They receive three months of access, the evidence one-pager ("The Amateur Fueling Gap") and the target method.
 - The narrative comes as context, not script: why Stoke exists (the same fueling science, built for the life amateurs already have) and what it will not claim.
-- One request: "Fuel one training block with Stoke, eating the way you normally do. When it sets a target or offers a swap you'd actually use, tell people which one and why it fit your session."
+- One request: "Fuel one training block with Stoke, eating the way you normally do. When a target or the night-before check changes what you eat, tell people what changed and why it fit your session."
 - Disclosure is required: say that Stoke gave you access (FTC Endorsement Guides in the US, the CAP Code in the UK), and don't say it made you faster.
 - No talking points. No hashtag requirements. The authentic content moment is the night before a hard session and race week.
 
@@ -119,11 +119,11 @@ WEEK -8 to -6    Foundation: build the evidence, the offer and the safety net
                  |-- Compile the evidence brief "The Amateur Fueling Gap" (every number traceable)
                  |-- Publish the "What we copied, what we changed" sheet: target method,
                  |   pricing, trial and cancellation policy
-                 |-- Create the Bagel Test one-pager (one bagel, three goals, three swaps)
+                 |-- Create the Bagel Test one-pager (one bagel, three goals, three ways to top it)
                  |-- Identify 15-20 target voices (club and gym coaches, run-club leads,
                  |   dietitians, amateur creators)
                  |-- LAUNCH-BLOCKING: safety review of the Energy Floor, deficit settings and
-                 |   game mechanics with a sports dietitian and an eating-disorder specialist;
+                 |   celebration moments with a sports dietitian and an eating-disorder specialist;
                  |   crisis-resource links for every launch market
                  |-- LAUNCH-BLOCKING: publish the target method; name the advisory board
                  |-- Scope plan-source integrations and open partner talks (Runna first)
@@ -137,7 +137,7 @@ WEEK -6 to -4    Seed: the argument before the product
                  |   "We copied the fueling science. Here's everything we changed."
                  |-- Private beta with 10-15 HYROX gyms, run clubs and strength gyms,
                  |   coaches included
-                 `-- Let genuine discoveries develop (the targets and swaps people
+                 `-- Let genuine discoveries develop (the targets and checks people
                      actually use); they become the launch stories
 
 WEEK -4 to -2    Pitch: the story to Tier 1
@@ -146,7 +146,7 @@ WEEK -4 to -2    Pitch: the story to Tier 1
                  `-- Prepare the press kit and the club and coach partner kit
 
 WEEK -1          Anticipation
-                 |-- Beta creators and coaches share first posts (their real targets and swaps)
+                 |-- Beta creators and coaches share first posts (their real targets and night-before checks)
                  |-- The founder publishes the personal "why I built this"
                  |-- Club codes go out to beta clubs and gyms
                  |-- The teaser: the Bagel Test quiz, "Which topping for your goal?"
@@ -169,7 +169,7 @@ WEEK 1-4         Amplification
 
 WEEK 4+          Maintenance + Advertising
                  |-- Only NOW consider paid advertising
-                 |-- Ads repeat what media already established: "Small swaps. Big goals."
+                 |-- Ads repeat what media already established: "Fueling for the life you already have."
                  `-- Ongoing evidence publishing: a monthly "Amateur Fueling Report" from
                      consented, aggregated data
 ```
@@ -179,7 +179,7 @@ WEEK 4+          Maintenance + Advertising
 | Mistake | Why It Fails |
 |---------|-------------|
 | **Drifting into the pros' game (the single most dangerous)** | Pro ambassadors, "elite" language, an "all in" commitment or a coaching upsell erase the word Stoke owns and leave a cheaper Fuelin with no reason to exist once Fuelin cuts its price. In press, never name Fuelin first; if a journalist does, use the locked line verbatim, "Fuelin works best when you're all in. Stoke works with the life you already have.", then concede its strengths. |
-| **Leading with the wrong element: price, AI logging or the score** | "The cheapest fueling app" invites a price war Stoke can't win alone and frames it as a discount; "snap to log" puts it on Cal AI's ladder; "the food score app" puts it on the health-score ladder and turns feedback into a target. Lead with fueling for amateurs; price, logging and the score are reasons to believe. |
+| **Leading with the wrong element: price, AI logging or a feature** | "The cheapest fueling app" invites a price war Stoke can't win alone and frames it as a discount; "snap to log" puts it on Cal AI's ladder; leading with any feature invites a feature race and turns a reason to believe into the message. Lead with fueling for amateurs; price, logging and features are reasons to believe. |
 | **Advertising before the claim is established** | "Fueling for amateurs" needs third parties (coaches, dietitians, journalists) to make it credible, and MyFitnessPal can outspend any startup. Red Bull and Starbucks were built by publicity first and advertising later. |
 | **Copying the complaint generators** | Paywalls before value, cancellation mazes, heavy marketing email and aggressive social ads are the patterns behind Fuelin's low-rated reviews (doc 1). In a word-of-mouth channel, each one turns a club member into a detractor. |
 | **Weight-loss framing or gamified restriction** | Under-fueling risk is common in recreational athletes, and athletes carry elevated eating-disorder rates. Body-composition goals stay a setting behind the Energy Floor, never a message, and the safety review of every deficit setting and game mechanic is a launch requirement, not a patch. |
@@ -192,8 +192,8 @@ WEEK 4+          Maintenance + Advertising
 |-------|---------|
 | Evidence brief: "The Amateur Fueling Gap" | The intellectual ammunition |
 | One-page narrative (three-act story) | The pitch journalists retell |
-| 30-second demo: connect a plan, today's targets, a meal snapped, the One Swap, the stoke | Visual proof |
-| The Bagel Test graphic: one bagel, three goals, three swaps (honey for the long-run morning, eggs for the lifter's breakfast, jam instead of cream cheese two hours before HYROX intervals), with Open Food Facts' C score for a leading US bagel shown alongside (Stoke's suggestions marked illustrative) | The shareable image |
+| 30-second demo: connect a plan, today's targets, a meal snapped, the night-before check, the stoke | Visual proof |
+| The Bagel Test graphic: one bagel, three goals, three ways to top it (honey for the long-run morning, eggs for the lifter's breakfast, jam instead of cream cheese two hours before HYROX intervals), with Open Food Facts' C score for a leading US bagel shown alongside (Stoke's suggestions marked illustrative) | The shareable image |
 | "What we copied, what we changed": the target method (sources, ranges, known limits such as photo portion error), the pricing, trial and cancellation policy, and the Energy Floor | Credibility through transparency |
 | 8 high-resolution screenshots | Editorial imagery |
 | Founder photo + 2-sentence bio, led by the founder's own training goal | Humanizes the brand |

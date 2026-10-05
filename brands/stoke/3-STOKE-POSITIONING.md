@@ -30,19 +30,19 @@ Not "fuel": it is the root of Fuelin's name, the heart of Hexis's science story 
 
 ### Tagline
 
-**Small swaps. Big goals.**
+**Fueling for the life you already have.**
 
-- The move: an antithesis in four words. "Small" is the amateur's way in (a free start, one swap at a time, meals at your own times); "big goals" honors the ambition that defines them. It implies the opposite of "all in" without naming anyone.
-- The law: the Law of the Opposite against "all in," executed through the Law of Sacrifice: one change at a time instead of everything at once. Like Volkswagen's "Think small," it turns the apparent weakness into the point.
-- Hostile-scrutiny check: a sports dietitian will object that small swaps can't fix a diet that is wrong overall. Correct, and Stoke agrees: it sets complete daily targets from the training plan (the fundamentals), and the swap is how a busy amateur closes the day's biggest gap. "Small" describes the effort of each change, not the ambition of the targets. The tagline promises a method, not an outcome.
+- The move: a promise in the prospect's own terms, and the locked line in miniature: Stoke "works with the life you already have." Every impression of the tagline repeats the Fuelin difference, the opposite of "all in," without naming Fuelin.
+- The law: the Law of the Opposite against "all in," held in place by the Law of Focus: one idea, said everywhere. Like BMW's "The ultimate driving machine," which puts the position in the line, it restates the strategy instead of decorating it.
+- Hostile-scrutiny check: a sports dietitian will object that fueling well sometimes means changing your life (eating before a 6 am run, carrying gels). Correct, and Stoke's targets still ask for the changes that matter; "the life you already have" means Stoke starts from the user's schedule, plan apps, meal times and budget, not that nothing changes. The tagline promises a fit, not an outcome.
 
 ### Expanded Position (Internal: for teams, briefs, decks)
 
-> Stoke is the fueling app built for amateurs. It copies what works in fueling: every morning, calorie and macro targets set from the training you have planned (more carbohydrate before the long run, protein spread across the day, fueling before, during and after each session), grounded in the ACSM, ISSN and IOC guidance. Then it changes what keeps amateurs out: free to start and about half the price, synced to the plan apps amateurs use, logged in seconds at their own meal times, with one swap to close the day's biggest gap and a light game that makes the habit visible. It spreads through clubs, coaches and creators with day jobs. We believe fueling science belongs to everyone who trains.
+> Stoke is the fueling app built for amateurs. It copies what works in fueling: every morning, calorie and macro targets set from the training you have planned (more carbohydrate before the long run, protein spread across the day, fueling before, during and after each session), grounded in the ACSM, ISSN and IOC guidance. Then it changes what keeps amateurs out: free to start and about half the price, synced to the plan apps amateurs use, logged in seconds at their own meal times, with a night-before check that tells them whether they are fueled for tomorrow. Every feature earns its place by solving an amateur's problem, or it waits. It spreads through clubs, coaches and creators with day jobs. We believe fueling science belongs to everyone who trains.
 
 ### Elevator Pitch
 
-> "If you train for something big (a marathon, a HYROX, a stronger body), you've heard you should fuel it: more carbohydrate on hard days, protein every day. The apps that do it well were built around pros and coaches, cost up to $139 a year and won't let you try first. Stoke gives amateurs the same adaptive targets, synced to the plan you already follow and free to start, then helps you hit them with small swaps to the meals you already eat. Small swaps. Big goals."
+> "If you train for something big (a marathon, a HYROX, a stronger body), you've heard you should fuel it: more carbohydrate on hard days, protein every day. The apps that do it well were built around pros and coaches, cost up to $139 a year and won't let you try first. Stoke gives amateurs the same adaptive targets, synced to the plan you already follow, at your own meal times, and free to start. Fueling for the life you already have."
 
 ## Positioning Tests
 
@@ -54,7 +54,7 @@ Not "fuel": it is the root of Fuelin's name, the heart of Hexis's science story 
 | **Opposite test** | "The fueling app the pros use": viable, and held by Hexis, with Fuelin's champions close behind. **Pass.** |
 | **Name reinforcement** | Strong. Small, regular stoking is the amateur's way of keeping a fire going around a day job; "stoked" is the amateur's reason for training at all; "stoke up" (to eat one's fill) suits an audience that under-eats its training. |
 | **Honesty test** | Most vulnerable claims: "about half the price" (true at $59.99 against $139; re-check whenever either price changes), plan sync with Runna (cannot be claimed until an integration or partnership is live), and any comparison drawn from reviews (public copy uses only Fuelin's own words; review findings stay internal). Stoke must also avoid the weakness it attacks: an app added nothing to learning in the one trial of young endurance athletes (Heikkilä et al., 2019), so Stoke claims the habit and the convenience, not that its app educates better. |
-| **Simplicity** | Position: 18 words. Tagline: 4 words. Sharp enough: one word, one opposite, one attitude. |
+| **Simplicity** | Position: 18 words. Tagline: 7 words. Sharp enough: one word, one opposite, one attitude. |
 | **Long-term defensibility** | Strengthens as fueling goes mainstream: the amateur field is far larger than the pro one, every club, coach and creator partnership is a channel competitors must build from scratch, and consented data on how amateurs actually eat around training builds an evidence base, starting with HYROX. Weakens if Stoke signs pros, competes on price alone, or repeats the complaint patterns it was built to fix. |
 
 ## Competitive Positioning Map
@@ -139,9 +139,9 @@ Adaptive fueling works: the praise in Fuelin's five-star reviews is about taking
 |--------|-----|
 | "fueling app for amateurs" | Category ownership |
 | "amateur," "ambitious amateurs," "athletes with day jobs" | Core concept |
-| "today's targets," "the One Swap" | Branded assets |
-| "Small swaps. Big goals." | The fundamental belief |
-| "the stoke" | Signature language |
+| "today's targets" | Branded asset |
+| "Fueling for the life you already have." | The fundamental belief |
+| "the night-before check," "the stoke" | Signature language |
 | "start free," "your plan, your apps," "seconds to log" | The three differences, always in this order |
 | "Fuelin works best when you're all in. Stoke works with the life you already have." | The locked competitive line, verbatim (public form: "Fueling shouldn't ask you to go all in. Stoke works with the life you already have.") |
 
@@ -156,7 +156,7 @@ Adaptive fueling works: the praise in Fuelin's five-star reviews is about taking
 | "calorie counter," "diet app" (as self-description) | Puts Stoke on MyFitnessPal's ladder |
 | "lose weight," "cut," "shred," "burn" | The weight paradigm, and the motive most linked to disordered behavior; body-composition goals are a setting, never a message |
 | "the food score app," "beat your score," "streak" | Makes the score the goal |
-| "healthy swap," "smart swap," "guilt-free" | Diet-culture vocabulary; Stoke's swaps fuel training and often add food |
+| "healthy swap," "smart swap," "guilt-free" | Diet-culture vocabulary; Stoke's guidance fuels training and often adds food |
 | "the most accurate," "X% accurate," "proven to make you faster," "the first," "syncs with Runna" (before it does) | False or fragile; a single expert quote ends the credibility position |
 | "clean," "junk," "good food," "bad food," "cheat meal" | Moralizes food |
 | "AI-powered calorie tracking" (as the lead) | The mechanism is not the position; it is Cal AI's ladder |
@@ -166,6 +166,6 @@ Adaptive fueling works: the praise in Fuelin's five-star reviews is about taking
 
 | Phase | Tagline | Rationale |
 |-------|---------|-----------|
-| **Launch** | Small swaps. Big goals. | With zero recognition, Stoke must explain its way in and honor its audience in one breath; the antithesis does both, and it implies the "all in" it rejects |
+| **Launch** | Fueling for the life you already have. | With zero recognition, Stoke must name the category and its difference in one breath; the line does both, and it echoes the locked comparison with Fuelin |
 | **Established** | Fueling for amateurs. | Once the position is owned, say it plainly: the word becomes the tagline |
-| **Mature** | Stoke it. | Assumes the name has become the verb for taking the swap; rewards insiders at the table |
+| **Mature** | Stoke up. | Assumes the name has become the verb for eating enough before the work, which "stoke up" already means; rewards insiders on race-week mornings |

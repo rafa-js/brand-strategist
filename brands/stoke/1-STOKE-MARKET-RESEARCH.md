@@ -326,7 +326,7 @@ Fueling apps sell pro proof to people with day jobs, and their consumer traction
 2. A free start: a free tier and a trial without a subscription, with the price shown before setup
 3. A price near the trackers' (about $60 a year), not the coaching apps' ($130-$140)
 4. Planned sessions from the apps amateurs use (Runna, Garmin, intervals.icu, Apple Health), not only TrainingPeaks
-5. Logging in seconds, plus one swap to hit the day's targets with the food you already eat
+5. Logging in seconds, in grams or ounces, with a food database for each launch market and targets that never rewrite a meal already eaten
 6. Distribution through amateur communities (clubs, gyms, coaches, creators with day jobs) instead of champions and paid reach
 
 Honest reading: Fuelin covers 1, and 4 for TrainingPeaks users. Hexis covers 1 for endurance athletes. MacroFactor adapts targets to body weight, with a trial but no free tier. MyFitnessPal and Cronometer have free tiers but fixed targets. Strava owns the community channel but not fueling, and it bought Runna. No single product combines all six, and every piece is copyable: the gap is a position and an execution, not a moat.
