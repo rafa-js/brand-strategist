@@ -2,129 +2,134 @@
 
 ## The Word to Own
 
-**Swap.**
+**Amateur.**
 
-Not "fuel": it is the root of Fuelin's name, the heart of Hexis's science story ("fuel for the work required") and the most crowded word in the niche (Exact Fuel, FuelWarden, Fuelbetter, Fuel: AI Nutrition); two brands cannot own the same word. Not "plan" or "coach": Fuelin calls itself "the world's first adaptive nutrition coach" and "builds a daily nutrition plan just for you." Not "calories": MyFitnessPal's App Store name is "Calorie Counter," and Cal AI carries the word in its name. Not "macros": MacroFactor owns the smart-macro position among lifters. Not "health" or "score": Yuka, ZOE, Nutri-Score and now Apple's iOS 27 grade food for everyone's long-term health, and a score on its own changes little. **Swap.** The question Stoke answers is not "what should I eat?" (Fuelin built Smart Meals for "eliminating the daily friction point of 'what should I eat?'") or "how many calories did I eat?": it is **"what's the one change to what I'm already eating that does the most for my goal?"** No athlete nutrition app owns the word: Fuelin's App Store listing never mentions a swap (5 October 2026), and the apps that use it are general-health scanners with between 0 and 5 US ratings each. It is structurally unavailable to the leaders: Fuelin and Hexis cannot lead with a single swap without conceding that their plans ask too much of an amateur, and the calorie trackers' swaps would cut energy, the opposite of what under-fueled amateurs need. Stoke will own it the way Volvo owns safety: by saying one thing longer and more consistently than anyone else.
+Not "fuel": it is the root of Fuelin's name, the heart of Hexis's science story ("fuel for the work required") and the most crowded word in the niche. Not "performance": Fuelin's App Store name is "Fuelin - Performance Nutrition," and wearables sell performance as readiness scores. Not "coach": Fuelin calls itself "the world's first adaptive nutrition coach" and sells human coaching. Not "calories": MyFitnessPal's App Store name is "Calorie Counter," and Cal AI carries the word in its name. Not "macros": MacroFactor owns the smart-macro position among lifters. Not "swap": a feature, and diet-culture vocabulary in the UK, where "Smart Swaps" was a public-health campaign to cut sugar and fat. **Amateur.** The question Stoke answers is not "how do the pros fuel?" (Hexis's World Tour riders, Fuelin's Ironman champions): it is **"how do I fuel my training when I have a job, a budget and a plan from Runna?"** The fueling apps have built their brands on the opposite: Hexis on "200+ UCI World Tour riders" and Premier League clubs, Fuelin on Jan Frodeno, Daniela Ryf and "all in." To claim "amateur," either would have to give up the pro halo and the premium price it supports. Stoke will own the word the way Volvo owns safety: by saying one thing longer and more consistently than anyone else.
 
 ## Positioning Architecture
 
 ### Onliness Statement (the differentiation test)
 
-> **Stoke is the only athlete nutrition app built around one swap to the food you already eat, instead of a plan that tells you what to eat.**
+> **Stoke is the only fueling app built, priced and distributed for amateurs.**
 
-- **WHAT** (category): the food-swap app for athletes, a new branch diverging from sports nutrition plans and calorie trackers
-- **HOW** (the only): one science-based swap per meal, chosen for the athlete's goal and next session, on the meal they already chose. Fuelin and Hexis prescribe plans and targets; calorie trackers count against a budget; health scanners grade or swap for general health with no training input
+- **WHAT** (category): the fueling app for amateurs, a branch of the fueling category
+- **HOW** (the only): the proven fundamentals, copied on purpose (calorie and macro targets that adapt to planned training), with everything around them built for amateurs: free to start and about half the price; targets from the plan apps amateurs use; logging in seconds at their own meal times; spread by clubs, coaches and amateur creators instead of champions and paid reach. Fuelin and Hexis sell the same science through pros and coaches, with no free trial; calorie trackers count against a weight budget
 - **WHO** (audience): ambitious amateurs who train for a result (a race time, a heavier lift, a HYROX finish) around a day job: not dieters, not pros
 - **WHERE** (market): English-language app stores, US and UK first, reached through HYROX affiliate gyms, run clubs and strength gyms
-- **WHY** (need state): they want to eat better for their goal but won't live by a meal plan or a food scale. Their knowledge is thin (only 1.8% of amateur endurance athletes identified the carbohydrate dose for rapid glycogen refuelling; Csanaky et al., 2025), they under-fuel the sessions that matter (only 5.3% of marathoners in one 2025 study hit race carbohydrate targets), and knowledge alone doesn't change what athletes eat (Heikkilä et al., 2019)
-- **WHEN** (trend): the mass-participation wave in goal-driven amateur sport (HYROX reports 1.4-1.5 million participants in 2025/26; London drew 1.34 million ballot applications for 2027; Gen Z leads gym growth), while AI made logging effortless and nearly free, moving the value from counting food to advising on it
+- **WHY** (need state): they want to fuel their training properly, but the tools that do it ask for commitment and money first ("We don't offer a free trial"; $139 a year), miss the plans they follow and take effort to log. Meanwhile most of them under-fuel (only 5.3% of marathoners in one 2025 study hit race carbohydrate targets) and know little of the science (1.8% of amateur endurance athletes identified the carbohydrate dose for rapid glycogen refueling; Csanaky et al., 2025)
+- **WHEN** (trend): the mass-participation wave in goal-driven amateur sport (HYROX reports more than 1.5 million participants in 2025/26; London drew 1.34 million ballot applications for 2027; Strava's running clubs grew 3.5x in 2025), while AI made logging nearly free, so access and fit now decide who wins
 
 ### Single-Sentence Position (External)
 
-> **Stoke is the food-swap app that makes what you already eat better for your goal, for ambitious amateurs who won't live by a meal plan.**
+> **Stoke is the fueling app built for amateurs: adaptive calorie and macro targets for ambitious athletes with day jobs.**
 
-- Identifies the prospect by attitude: "ambitious amateurs who won't live by a meal plan" captures the HYROX racer, the marathoner chasing a time and the lifter chasing a number, who train hard around jobs and families, and excludes both the dieter and the athlete who wants to be told exactly what to eat. The group is large and reachable: HYROX counts about 15,000 affiliate gyms (SportsPro, 2026), Strava 1 million clubs (Strava, 2025), and 81 million Americans belong to a gym (HFA, 2026).
-- Repositions the competition: plans become tools for people who will live by them, calorie apps tools for a weight, health scores tools for general health.
-- States what Stoke IS (a food-swap app), not what it does.
-- Passes the opposite test: "the nutrition coach that tells athletes exactly what to eat" is a real, viable position, held by Fuelin, "the world's first adaptive nutrition coach built for active individuals," at $139 a year.
+- Identifies the prospect by attitude: "ambitious athletes with day jobs" captures the HYROX racer, the marathoner chasing a time and the lifter chasing a number, who train hard around work and family, and excludes both the dieter and the pro. The group is large and reachable: HYROX counts about 15,000 affiliate gyms (SportsPro, 2026), Strava 1 million clubs (Strava, 2025), and 81 million Americans belong to a gym (HFA, 2026).
+- Repositions the competition: Fuelin and Hexis become the tools of pros and coached athletes; calorie apps become tools for weight loss.
+- States what Stoke IS (the fueling app for amateurs), not what it does.
+- Passes the opposite test: "the fueling app the pros use" is a real, viable position, held by Hexis ("200+ UCI World Tour riders") and by Fuelin's roster of champions.
 
 ### Tagline
 
 **Small swaps. Big goals.**
 
-- The move: an antithesis in four words. It names the method (small swaps) and the reward (big goals) at once, and it implies the enemy without naming it: the big, all-at-once plan. "Small" is a promise to people with day jobs; "big goals" honors the ambition that defines them.
-- The law: the Law of the Opposite against the plan leaders, executed through the Law of Sacrifice: one change instead of everything. Like Volkswagen's "Think small," it turns the apparent weakness (just one swap) into the point.
-- Hostile-scrutiny check: a sports dietitian will object that one small swap can't fix a diet that is wrong overall. Correct, and Stoke agrees: the swap is always the change with the biggest effect for the goal (often total carbohydrate before long sessions), the Energy Floor watches overall intake, and "small" describes the effort asked of the user, not the size of the effect. The tagline promises a method, not an outcome: the big goal is the athlete's, and Stoke never claims to deliver it.
+- The move: an antithesis in four words. "Small" is the amateur's way in (a free start, one swap at a time, meals at your own times); "big goals" honors the ambition that defines them. It implies the opposite of "all in" without naming anyone.
+- The law: the Law of the Opposite against "all in," executed through the Law of Sacrifice: one change at a time instead of everything at once. Like Volkswagen's "Think small," it turns the apparent weakness into the point.
+- Hostile-scrutiny check: a sports dietitian will object that small swaps can't fix a diet that is wrong overall. Correct, and Stoke agrees: it sets complete daily targets from the training plan (the fundamentals), and the swap is how a busy amateur closes the day's biggest gap. "Small" describes the effort of each change, not the ambition of the targets. The tagline promises a method, not an outcome.
 
 ### Expanded Position (Internal: for teams, briefs, decks)
 
-> Stoke is the food-swap app for ambitious amateurs. Snap what you eat, and Stoke finds the one swap that does the most for your goal and your next session (protein at breakfast for the lifter, carbohydrate the night before the long run, both for the HYROX racer) using the ACSM, ISSN and IOC guidance, with one line of why. A quick meal score and the ember's glow show the difference, so better choices feel like a game and every meal teaches something. Over a season the swaps become habits, and the habits carry the goal. No meal plan, no daily targets, no food scale, no calorie budget. We believe big goals are reached by small changes, made consistently.
+> Stoke is the fueling app built for amateurs. It copies what works in fueling: every morning, calorie and macro targets set from the training you have planned (more carbohydrate before the long run, protein spread across the day, fueling before, during and after each session), grounded in the ACSM, ISSN and IOC guidance. Then it changes what keeps amateurs out: free to start and about half the price, synced to the plan apps amateurs use, logged in seconds at their own meal times, with one swap to close the day's biggest gap and a light game that makes the habit visible. It spreads through clubs, coaches and creators with day jobs. We believe fueling science belongs to everyone who trains.
 
 ### Elevator Pitch
 
-> "If you're training for something big, a marathon, a HYROX, a stronger body, you already know food matters. But your options are a calorie counter built for weight loss, or a nutrition plan that tells you exactly what to eat and when. Most of us have jobs, work lunches and family dinners. Stoke works with the food you already eat: snap your meal and it gives you one swap, backed by sports science, that does the most for your goal. Small swaps. Big goals."
+> "If you train for something big (a marathon, a HYROX, a stronger body), you've heard you should fuel it: more carbohydrate on hard days, protein every day. The apps that do it well were built around pros and coaches, cost up to $139 a year and won't let you try first. Stoke gives amateurs the same adaptive targets, synced to the plan you already follow and free to start, then helps you hit them with small swaps to the meals you already eat. Small swaps. Big goals."
 
 ## Positioning Tests
 
 | Test | Result |
 |------|--------|
-| **One word/concept?** | Swap. Unowned in athlete nutrition (Fuelin's listing never mentions it; the general-health swap scanners have 0-5 US ratings each), simple, and usable as a verb ("take the swap"). Structurally awkward for the leaders: a plan app that leads with one swap concedes its plan is too much, and a calorie app's swaps would cut energy. Vulnerable to Fuelin adding a swap feature, which it could ship quickly; that is why the position must be won in the mind first and repeated relentlessly. |
-| **Radical differentiation (the only?)** | True today (products reviewed on 5 October 2026): no athlete nutrition app is built around one swap to the meal you already chose. Fuelin's Smart Meals suggest meals before you eat, built to its targets, and Hexis codes meals by carbohydrate. It is not a feature moat: every part is copyable. It is defensible as a mind position won first, and as a model the plan apps cannot adopt without demoting their own plans. |
-| **Category clear?** | Food-swap app for athletes: new, named against the plan and the counter; no athlete-nutrition competitor describes itself this way. Stoke can be first in the mind; it is not first to market with training-aware nutrition advice, and won't claim to be. |
-| **Opposite test** | "The nutrition coach that tells athletes exactly what to eat": viable, and owned by Fuelin (with Hexis for elite endurance). **Pass.** |
-| **Name reinforcement** | Strong. A fire is kept alive by small, regular stoking: each swap is a stoke, and the big fire is the goal. "Stoke up" means "to eat one's fill" (Wiktionary), which suits an audience that under-eats its training. |
-| **Honesty test** | Most vulnerable claim: that swaps work for athletes. All randomized swap evidence comes from general-population shoppers, with modest effects (Jansen et al., 2021; Schruff-Lim et al., 2024), and no swap trial in athletes exists. Survivable: Stoke claims what each swap is built on (the ACSM, ISSN and IOC guidance) and why the format fits amateurs, never that it makes anyone faster, and it funds its own evaluation. Second most vulnerable: "what you already eat." Stoke does change what people eat, one meal at a time; the claim is that it starts from their meals, not that nothing changes. |
-| **Simplicity** | Position: 25 words. Tagline: 4 words. Sharp enough: one word, one opposite, one attitude. |
-| **Long-term defensibility** | Strengthens with time: every season of consented, aggregated data on which swaps amateurs take, and what happens next, builds an evidence base no plan app collects, starting with HYROX, where no fueling study exists. Weakens if Stoke drifts into plans or weight goals, or if Fuelin claims the word "swap" first. |
+| **One word/concept?** | Amateur. Unclaimed in fueling, where every brand reviewed leads with pros, and structurally unavailable to the leaders, whose brands rest on champions, coaching and a premium price. Vulnerable on price: Fuelin could add a trial and cut its price, which is why the position rests on who Stoke is built for (the product details, the channels, the faces), not on price alone. Risk: "amateur" can read as "not serious"; Stoke pairs it with "ambitious" and "big goals" and never uses it as a put-down. |
+| **Radical differentiation (the only?)** | True as a position, deliberately not as a product: the fundamentals are copied, and the founder accepts a subtle product difference. Among the products reviewed on 5 October 2026, none combines adaptive fueling with a free start, a price near $60 a year, plan sync from the apps amateurs use and amateur-led distribution: Fuelin and Hexis offer no free trial, MacroFactor ($71.99, a 7-day trial) adapts to body weight rather than sessions, and MyFitnessPal's free tier sets one fixed budget. Every element is copyable; held together and owned in the mind first, they are defensible. |
+| **Category clear?** | Fueling app for amateurs: a branch of a category prospects can already name. Stoke can be first in the mind for amateurs; it is not first to market with adaptive fueling, and says so openly. |
+| **Opposite test** | "The fueling app the pros use": viable, and held by Hexis, with Fuelin's champions close behind. **Pass.** |
+| **Name reinforcement** | Strong. Small, regular stoking is the amateur's way of keeping a fire going around a day job; "stoked" is the amateur's reason for training at all; "stoke up" (to eat one's fill) suits an audience that under-eats its training. |
+| **Honesty test** | Most vulnerable claims: "about half the price" (true at $59.99 against $139; re-check whenever either price changes), plan sync with Runna (cannot be claimed until an integration or partnership is live), and any comparison drawn from reviews (public copy uses only Fuelin's own words; review findings stay internal). Stoke must also avoid the weakness it attacks: an app added nothing to learning in the one trial of young endurance athletes (Heikkilä et al., 2019), so Stoke claims the habit and the convenience, not that its app educates better. |
+| **Simplicity** | Position: 18 words. Tagline: 4 words. Sharp enough: one word, one opposite, one attitude. |
+| **Long-term defensibility** | Strengthens as fueling goes mainstream: the amateur field is far larger than the pro one, every club, coach and creator partnership is a channel competitors must build from scratch, and consented data on how amateurs actually eat around training builds an evidence base, starting with HYROX. Weakens if Stoke signs pros, competes on price alone, or repeats the complaint patterns it was built to fix. |
 
 ## Competitive Positioning Map
 
-### Against Sports Nutrition Plans
+### Against Fueling Apps (Pro and Coached)
 
 | Brand | What They Own | What Stoke Calls Them |
 |-------|--------------|-----------------------|
-| Fuelin | An adaptive nutrition coach for endurance, HYROX and lifting: daily plans that adjust to workouts, Smart Meals, lessons and a human-coach tier | Tells you what to eat |
-| Hexis | The science of periodized carbohydrate ("fuel for the work required") and elite proof in pro cycling and football | The pros' periodized plan |
+| Fuelin | Adaptive targets from training, Smart Meals, lessons, TrainingPeaks sync, a roster of champions and coaching from $99 a month | The committed athlete's fueling app: "works best when you're all in," in its own words |
+| Hexis | Periodized carbohydrate ("fuel for the work required") and elite proof (200+ UCI World Tour riders) | The pros' periodized targets |
 | FoodCoach | Meal plans built around a training plan | A plan to cook to |
-| **Stoke** | **The swap** | **Makes what you already eat better for your goal, one swap at a time** |
+| **Stoke** | **Amateurs** | **The same fueling science, built for the life you already have** |
 
 ### The Fuelin Difference (Locked)
 
-Fuelin is the closest competitor, and on features the two converge: photo logging, workout sync, goals for marathons, HYROX and lifting. Features won't separate them in the mind; the model will. One line states it, verbatim, in every comparison:
+Stoke copies what works in Fuelin: adaptive targets from planned training, session fueling, photo logging and meal guidance. On features the two converge; what separates them in the mind is who each is built for. One line states it, verbatim, in every comparison:
 
-> **"Fuelin tells you what to eat. Stoke makes what you already eat better for your goal, one swap at a time."**
+> **"Fuelin works best when you're all in. Stoke works with the life you already have."**
 
-Public form, for copy that names no competitor: **"Meal plans tell you what to eat. Stoke makes what you already eat better for your goal, one swap at a time."**
+The first sentence is Fuelin's own, from the FAQ where it explains why it offers no free trial. Public form, for copy that names no competitor: **"Fueling shouldn't ask you to go all in. Stoke works with the life you already have."**
 
-The three differences behind it, always in this order and under these names:
+The three differences behind it, always in this order and under these names, each answering what Fuelin's users complain about most. The counts come from 142 hand-coded one-to-three-star App Store reviews in nine countries, January 2023 to October 2026 (doc 1):
 
-| Difference | Fuelin, in its own words | Stoke |
-|------------|--------------------------|-------|
-| **1. Plan vs. swap** | "Tells you exactly what to eat, when to eat it, and why it matters"; "builds a daily nutrition plan just for you" that "automatically adjusts to your workouts"; Smart Meals suggests what to cook or order (App Store; endurance.biz, 2025) | Starts from the meal you already chose and recommends the one swap that does the most for your goal and your next session |
-| **2. Targets vs. choices** | "Precise macros and calorie targets," with portion sizing (fuelin.com) | No daily targets: Stoke rates the choice and shows a better one; the meal score is feedback, never a quota |
-| **3. Lessons vs. learning by doing** | "Learn portion control, supplement use, and energy balance through in-app lessons and videos" (App Store) | Each swap carries one line of why, and a light game (the ember, the playbook) makes the habit stick: you learn by eating, not by watching. Fuelin's store listing shows no game mechanics (5 October 2026) |
+| Difference | Fuelin, in its own words or its reviewers' | Stoke |
+|------------|--------------------------------------------|-------|
+| **1. Start free** | "We don't offer a free trial" (FAQ); Autopilot at $29 a month or $139 a year (App Store). Price (31% of low-rated reviews), the missing trial (28%) and billing, cancellation or support (20%): together, 61% of low-rated reviews raise at least one of the three | A free tier and 14 days of Premium without a subscription; the price shown before setup; Premium near $59.99 a year or $9.99 a month; cancel in two taps, with access to the end of the period |
+| **2. Your plan, your apps** | Planned sessions sync from TrainingPeaks, which reviewers praise; integration problems appear in 23% of low-rated reviews, including Runna, Garmin plans that don't populate, and targets that update only after a Strava or Final Surge workout | Targets set before each session from the plan sources amateurs use (TrainingPeaks, intervals.icu, Garmin, Apple Health, and Runna as a partnership priority), or a week typed in under a minute |
+| **3. Seconds to log** | Logging problems appear in 28% of low-rated reviews: "clunky" entry, foods that can't be logged in grams, database gaps, macros that don't match the label | Photo, voice or barcode in seconds; grams or ounces; every value editable, calories included; meals at the user's own times |
+
+Fixed too, but not a difference to advertise: target quality. One in five low-rated Fuelin reviews calls its targets wrong, unrealistic or unsafe, and Stoke will publish every target's reason and keep it above the Energy Floor. That is table stakes for copying the fundamentals well, not a claim to make.
+
+The go-to-market difference, internal and never a public claim: Fuelin sells through champions (Jan Frodeno, Daniela Ryf and other pro triathletes), endurance events and podcasts, and a coaching ladder from $99 a month (Copilot) to $1,500 a month (1:1), and its reviewers mention social ads and heavy email. Stoke sells amateur to amateur: club and gym partners, a free coach view, creators with day jobs, share cards and referrals, with PR first and no pro ambassadors.
 
 Rules for the line:
 - Use it verbatim. Never paraphrase it, shorten it or add a third sentence.
-- Characterize Fuelin only through its own published words, and re-check them every quarter. If Fuelin adds swaps, the line still holds (a plan with a swap feature still tells you what to eat), but the three differences must be re-verified.
-- Never claim Fuelin doesn't work. It suits athletes who want to be told exactly what to eat; Stoke is for those who won't live by a plan. Respecting the opposite keeps the choice clean.
-- Concede Fuelin's real strengths when asked: the human-coach tier, sweat-rate and carbohydrate-capacity testing, and deep endurance integrations.
+- Characterize Fuelin publicly only through its own published words; the review findings guide product priorities and sales training, not public copy.
+- Never name Fuelin first in press. If a journalist does, use the line verbatim, then concede Fuelin's strengths.
+- Re-check Fuelin's FAQ, prices and integrations every quarter. If Fuelin drops the "all in" stance, retire the named line and use the public form.
+- Concede Fuelin's real strengths when asked: human coaching, sweat-rate and carbohydrate-capacity testing, deep endurance integrations and the expertise of its founding sports scientist.
 
 ### Against Calorie Trackers
 
 | Brand | What They Own | What Stoke Calls Them |
 |-------|--------------|-----------------------|
-| MyFitnessPal | The food-logging habit, a 20M-food database and the word "calories" | The calorie counter: built around a daily budget, not a goal you train for |
+| MyFitnessPal | The food-logging habit, a 20M-food database, a free tier and the word "calories"; title partner of HYROX Tampa | One fixed budget, built for weight loss |
 | Cal AI | Speed: a photo in, calories out | Calorie counting, faster |
 | Lose It! | Weight loss made simple, for 57M+ members | A weight-loss tool, honestly named |
-| **Stoke** | **The swap** | **Doesn't count your food; makes it better for your goal** |
+| MenuFit | Restaurant orders for cutting or bulking ("we tell you exactly what to order") | Ordering for a physique, not fueling for a session |
+| **Stoke** | **Amateurs who train** | **Targets that move with your training, not a fixed budget** |
 
 ### Against Lifter and Accuracy Trackers
 
 | Brand | What They Own | What Stoke Calls Them |
 |-------|--------------|-----------------------|
-| MacroFactor | The smartest macro algorithm for body weight, and lifters' trust | Brilliant at moving the scale; Stoke improves the meal for the session |
-| Cronometer | Verified accuracy and micronutrients | A precise ledger of what you ate; Stoke names the one thing to change |
-| **Stoke** | **The swap, for training goals** | **Fewer numbers, better meals** |
+| MacroFactor | The smartest adaptive macro algorithm for body weight, and lifters' trust; $71.99 a year with a 7-day trial | Adaptive for the scale, not the session |
+| Cronometer | Verified accuracy, micronutrients and a free tier | A precise ledger without training context |
+| **Stoke** | **Adaptive targets for training** | **Adapts to the sessions ahead, not only to the scale** |
 
-### Against Health Scores and Swap Scanners
+### Against Health Scores
 
 | Brand | What They Own | What Stoke Calls Them |
 |-------|--------------|-----------------------|
 | Yuka | Scanning packaged food for health, for about 89.5M users | A health scanner for the supermarket aisle |
 | ZOE | Personalized gut-health science | Personalized for your health, not for your training |
 | Nutri-Score | The official front-of-pack grade in Europe | Built, in its makers' words, for "the needs of the general population" |
-| Apple (iOS 27) | A free glance at processing, protein and sugar | A health glance that doesn't know your goal |
-| Healthy-swap scanners (Swapd, NutriSwap, HealthySwap) | Swapping packaged products for healthier ones | Swaps for less sugar and fewer additives; Stoke's swaps serve your next session, and often add food |
-| **Stoke** | **The swap, for your goal** | **The same bagel: kept before a long run, upgraded with eggs at a lifter's breakfast** |
+| Apple (iOS 27) | A free glance at processing, protein and sugar | A health glance that doesn't know your session |
+| **Stoke** | **Training context** | **The same bagel, fueled differently for a rest day and a long-run morning** |
 
 ## The Core Argument
 
-**Plans and counters are not wrong; they ask amateurs to change everything, and the science says a few right changes matter most.**
+**The fueling apps got the science right and the access wrong.**
 
-Calorie counting works for what it was built for: digital self-monitoring was linked to weight loss in 74% of reported occurrences across 39 trials (Patel et al., 2021). Plans work for people who follow them: amateur marathoners who followed a science-based in-race carbohydrate strategy finished 4.7% faster than runners who ate freely (Hansen et al., 2014). But amateurs don't live like the people plans were built for. Their knowledge is thin, and knowledge alone doesn't change what they eat: education raised young endurance athletes' nutrition knowledge but "was not enough to change dietary intake" (Heikkilä et al., 2019). Adherence decides results (Dansinger et al., 2005), and habits form from small actions repeated in the same context (Lally et al., 2010). What moves behavior is small and concrete: offered swaps improved food choices about three times as much as labels in one randomized trial (Jansen et al., 2021), and helped people with the least knowledge most (Schruff-Lim et al., 2024). The guidelines already name the few changes that matter most, timed "in relation to sport rather than general daily targets" (Thomas, Erdman and Burke, 2016): enough carbohydrate for hard and long sessions, protein spread across the day, and enough energy overall. Stoke turns each of them into a swap, at the meal where it counts.
+Adaptive fueling works: the praise in Fuelin's five-star reviews is about taking "the guesswork out" of what and when to eat, and amateur marathoners who followed a science-based race carbohydrate strategy finished 4.7% faster than runners who ate freely (Hansen et al., 2014). The guidelines behind it are clear: eat to the training, timed "in relation to sport rather than general daily targets" (Thomas, Erdman and Burke, 2016). But the category was built for the committed few. It costs up to $139 a year, offers no free trial, sells human coaching for up to $1,500 a month and leads with champions. Its own users' complaints are mostly about access and execution, not the science: 61% of Fuelin's low-rated reviews raise price, the missing trial or billing, and the most common product complaints are logging and integrations. It has reached few: Fuelin reported "over 3000 monthly age-group athletes" in 2025, while HYROX counts more than 1.5 million participants and London drew 1.34 million ballot applications. And the amateurs it missed under-fuel: only 5.3% of marathoners in one 2025 study hit race carbohydrate targets. Stoke keeps the science and rebuilds the access.
 
-**This is not a lighter meal plan. This is a food-swap app.**
+**This is not a cheaper Fuelin. This is the fueling app for amateurs.**
 
 ## Language Discipline
 
@@ -132,34 +137,35 @@ Calorie counting works for what it was built for: digital self-monitoring was li
 
 | Phrase | Why |
 |--------|-----|
-| "food-swap app" | Category ownership |
-| "swap," "take the swap," "one swap at a time" | Core concept |
-| "the One Swap" | Branded asset |
+| "fueling app for amateurs" | Category ownership |
+| "amateur," "ambitious amateurs," "athletes with day jobs" | Core concept |
+| "today's targets," "the One Swap" | Branded assets |
 | "Small swaps. Big goals." | The fundamental belief |
 | "the stoke" | Signature language |
-| "what you already eat," "your goal," "your next session" | The starting point and the context that make Stoke the opposite of a plan |
-| "Fuelin tells you what to eat. Stoke makes what you already eat better for your goal, one swap at a time." | The locked competitive line, verbatim (public form: "Meal plans tell you what to eat. Stoke makes what you already eat better for your goal, one swap at a time.") |
+| "start free," "your plan, your apps," "seconds to log" | The three differences, always in this order |
+| "Fuelin works best when you're all in. Stoke works with the life you already have." | The locked competitive line, verbatim (public form: "Fueling shouldn't ask you to go all in. Stoke works with the life you already have.") |
 
 ### Never Say
 
 | Phrase | Why |
 |--------|-----|
-| "meal plan," "nutrition plan," "what to eat today," "your daily targets" (as self-description) | Puts Stoke on Fuelin's ladder; the plan is the opposite Stoke stands against |
-| "coach," "nutrition coach," "AI coach" (as self-description) | Fuelin's word ("adaptive nutrition coach") and MyFitnessPal's (AI Coach) |
-| "fuel tracker," "Fuel Score," or "fuel" as Stoke's word | "Fuel" is the root of Fuelin's name. Descriptive science terms ("under-fueling," "fueling during the race") are allowed only where the guidelines use them |
-| "calorie counter," "calorie tracker," "diet app" (as self-description) | Puts Stoke on MyFitnessPal's ladder |
-| "lose weight," "cut," "lean out," "shred," "burn" | Drags Stoke into the weight paradigm and the motive most linked to disordered behavior |
-| "the food score app," "beat your score," "hit 90" | Makes the score the goal and puts Stoke on the health-score ladder |
-| "the most accurate," "X% accurate," "proven to make you faster," "the first" | False or fragile; a single expert quote ends the credibility position |
-| "clean," "junk," "good food," "bad food," "cheat meal" | Moralizes food, and makes context-based gel swaps look like endorsements of junk |
-| "AI-powered calorie tracking," "snap to count" (as the lead) | The mechanism is not the position; it is Cal AI's ladder |
-| "eat like a pro," "used by the pros" | Hexis's ladder; contradicts the amateur tribe |
-| "HYROX science," "the HYROX diet" | No published HYROX fueling research exists, and it implies an affiliation with the HYROX brand |
+| "elite," "pro-level," "used by the pros," "fuel like a pro" | The pros' ladder (Hexis, Fuelin's champions); it contradicts the word Stoke owns |
+| "cheapest," "budget fueling" | Price is a reason to believe, not the position, and a price war is one Stoke cannot win alone |
+| "Fuel your purpose," "fuel your ambition," "Fuel Score," "fuel tracker" | Fuelin's slogans and name territory; "fueling" is fine as the category's generic term |
+| "coach," "nutrition coach," "AI coach" (as self-description) | Fuelin's and MyFitnessPal's words; Stoke sells no coaching |
+| "calorie counter," "diet app" (as self-description) | Puts Stoke on MyFitnessPal's ladder |
+| "lose weight," "cut," "shred," "burn" | The weight paradigm, and the motive most linked to disordered behavior; body-composition goals are a setting, never a message |
+| "the food score app," "beat your score," "streak" | Makes the score the goal |
+| "healthy swap," "smart swap," "guilt-free" | Diet-culture vocabulary; Stoke's swaps fuel training and often add food |
+| "the most accurate," "X% accurate," "proven to make you faster," "the first," "syncs with Runna" (before it does) | False or fragile; a single expert quote ends the credibility position |
+| "clean," "junk," "good food," "bad food," "cheat meal" | Moralizes food |
+| "AI-powered calorie tracking" (as the lead) | The mechanism is not the position; it is Cal AI's ladder |
+| "HYROX science," "the HYROX diet" | We found no published HYROX fueling study, and the phrase implies an affiliation with the HYROX brand |
 
 ## Tagline Evolution Path
 
 | Phase | Tagline | Rationale |
 |-------|---------|-----------|
-| **Launch** | Small swaps. Big goals. | With zero recognition, Stoke must explain its method and honor its audience in one breath; the antithesis does both, and it implies the plan it rejects |
-| **Established** | One swap at a time. | Once "swap" is owned, compress to the method itself: the phrase that closes every comparison |
+| **Launch** | Small swaps. Big goals. | With zero recognition, Stoke must explain its way in and honor its audience in one breath; the antithesis does both, and it implies the "all in" it rejects |
+| **Established** | Fueling for amateurs. | Once the position is owned, say it plainly: the word becomes the tagline |
 | **Mature** | Stoke it. | Assumes the name has become the verb for taking the swap; rewards insiders at the table |
