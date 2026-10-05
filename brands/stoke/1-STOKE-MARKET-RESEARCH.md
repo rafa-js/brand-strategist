@@ -1,5 +1,5 @@
-# Fuel Tracking for Amateur Athletes: Market Research Report
-### The strategic case for judging food by the training ahead, not by its calories
+# Nutrition for Ambitious Amateurs: Market Research Report
+### The strategic case for improving the food amateurs already eat, one science-based swap at a time
 ### 5 October 2026
 
 ## DISCOVERY (Inputs)
@@ -7,17 +7,17 @@
 | Question | Answer |
 |----------|--------|
 | **What is the product or service?** (category, function, target user) | A mobile food-tracking app for people who train. Three proposed value props: effortless food tracking (AI photo logging), science-based food scores, and food swaps based on the user's goal. Target users: amateur athletes with ambitious goals: building muscle, training for a marathon, training for HYROX. |
-| **Who is the competition?** (who occupies nearby rungs on the mental ladder) | Initial answer from the brief: AI calorie-tracking apps. Part 2 widens it to five fronts: calorie counters (MyFitnessPal, which now owns Cal AI), lifter macro coaches (MacroFactor), performance-fueling plans (Hexis, Fuelin), general-health food scores (Yuka, ZOE, Nutri-Score, Apple), and wearables adding food logging (Garmin, Google, Oura). |
+| **Who is the competition?** (who occupies nearby rungs on the mental ladder) | Initial answer from the brief: AI calorie-tracking apps. Part 2 widens it to five fronts: calorie counters (MyFitnessPal, which now owns Cal AI), lifter macro coaches (MacroFactor), sports nutrition plans (Fuelin, Hexis), general-health food scores and swap scanners (Yuka, ZOE, Nutri-Score, Apple; Swapd, NutriSwap), and wearables adding food logging (Garmin, Google, Oura). Founder priority, set after the first draft: a clear, consistent difference from Fuelin, the closest competitor. |
 | **What position, if any, does the brand currently hold?** | None. New brand, pre-launch: no name, no audience, no claims in market. |
-| **What is the business goal?** (launch, reposition, defend, extend, fix) | Launch. Differentiate from AI calorie trackers by serving people who train and applying modern sports-nutrition science to their performance. |
+| **What is the business goal?** (launch, reposition, defend, extend, fix) | Launch. Differentiate from AI calorie trackers by serving people who train and applying modern sports-nutrition science to their goals. Founder clarification after the first draft (5 October 2026): the app exists to help amateurs eat better to reach ambitious goals through science-based recommendations; the food score is there to gamify and teach, not as a goal in itself; and the difference from Fuelin must be clear and consistent. |
 
 Working assumptions not stated in the brief, to confirm: an English-language launch with the US and UK as lead markets, and a product still in development rather than live.
 
 ## EXECUTIVE SUMMARY
 
-Calorie trackers own food tracking, and the leader just bought the AI wave: MyFitnessPal (280 million+ members, the top-grossing US health and fitness app) acquired Cal AI and now runs it "for performance-oriented members." But the calorie is the wrong unit for people who train, and it is the least reliable thing a photo can read. In an NIH test of 102 weighed meals, photo logging in four leading apps undercounted energy by 252 to 345 kcal per meal, about a third (preliminary, 2026), while the best apps name 87% to 97% of foods correctly (Li et al., 2024). The joint ACSM position stand asks athletes to time nutrition "in relation to sport rather than general daily targets" (Thomas, Erdman and Burke, 2016), and Nutri-Score's own owner says its score "cannot be used" for sport nutrition products. The cost shows in behavior: only 5.3% of marathoners in a 2025 field study hit race carbohydrate targets, and amateurs given a fueling plan ran 4.7% faster (Hansen et al., 2014). Meanwhile the audience is surging: HYROX reports growth from about 175,000 to over 1.5 million participants in three seasons, and London Marathon ballot applications more than doubled to 1.34 million. Yet **no product combines effortless photo logging, a food-level score that changes with your goal and your next session, and a concrete swap, across strength, endurance and hybrid training.** The pieces exist; nobody has assembled them for the amateur.
+Amateurs who train for big goals are offered two kinds of nutrition app, and neither was built for them. Calorie trackers own food tracking, and the leader just bought the AI wave: MyFitnessPal (280 million+ members, the top-grossing US health and fitness app) acquired Cal AI. But a calorie budget is a weight tool, and the calorie is the least reliable thing a photo can read: in an NIH test of 102 weighed meals, photo logging undercounted energy by about a third (preliminary, 2026). Sports nutrition apps start from the right science, the ACSM position that athletes should eat "in relation to sport rather than general daily targets" (Thomas, Erdman and Burke, 2016), but deliver it as a plan: Fuelin, the closest competitor, "tells you exactly what to eat, when to eat it, and why it matters," with daily plans, "precise macros and calorie targets," lessons and a coaching tier. Plans ask amateurs to change everything, and knowledge alone rarely changes what athletes eat: education raised young endurance athletes' nutrition knowledge but "was not enough to change dietary intake" (Heikkilä et al., 2019). What moves behavior is smaller: concrete swaps improved food choices more than labels in randomized trials, most of all for people with less nutrition knowledge (Jansen et al., 2021; Schruff-Lim et al., 2024), and habits form from small actions repeated in the same context (Lally et al., 2010). The need is real: only 5.3% of marathoners in a 2025 field study hit race carbohydrate targets, and amateurs who followed a science-based race strategy ran 4.7% faster (Hansen et al., 2014). The audience is surging: HYROX reports growth from about 175,000 to over 1.5 million participants in three seasons, and London Marathon ballot applications more than doubled to 1.34 million. Yet **no product improves the food amateurs already eat with one science-based swap for their goal, instead of counting it or replacing it with a plan.** The swap is unclaimed in athlete nutrition: Fuelin's store listing never mentions one, and the apps that use the word are general-health scanners with a handful of ratings.
 
-## PART 1: WHY CALORIE COUNTING FAILS PEOPLE WHO TRAIN
+## PART 1: WHY TODAY'S TOOLS FAIL PEOPLE WHO TRAIN
 
 ### 1.1 The Numbers Are Wrong: the calorie is the least reliable thing a photo reads
 
@@ -54,8 +54,8 @@ Reading it fairly: grades depend on crowd-entered categories (one SiS GO barcode
 
 ### 1.3 The Behavior Doesn't Work: amateurs under-fuel, and weight-driven tracking carries risk
 
-- **Amateurs under-fuel the sessions that matter.** Only 5.3% of marathoners in a 2025 field study met the 60-90 g/h race target, and most athletes were "often overestimating their intake" (*European Journal of Sport Science*, 2025, 60 endurance athletes). Seville marathoners averaged 35 g/h (Jiménez-Alfageme et al., 2025, n=160). Only 45.7% of non-elite multisport athletes met daily carbohydrate recommendations, while 87.1% reached at least 1.2 g/kg of protein (Masson and Lamarche, 2016): the protein message has landed, the fuel message has not.
-- **Fueling to plan pays.** Non-elite marathoners using gels to target about 60 g/h finished 10 min 55 s (4.7%) faster than matched runners eating freely (Hansen et al., 2014, n=28). In an analysis of 1.9 million marathon results, 28% of men and 17% of women "hit the wall" (Smyth, 2021).
+- **Amateurs under-fuel the sessions that matter.** Only 5.3% of marathoners in a 2025 field study met the 60-90 g/h race target, and most athletes were "often overestimating their intake" (*European Journal of Sport Science*, 2025, 60 endurance athletes). Seville marathoners averaged 35 g/h (Jiménez-Alfageme et al., 2025, n=160). Only 45.7% of non-elite multisport athletes met daily carbohydrate recommendations, while 87.1% reached at least 1.2 g/kg of protein (Masson and Lamarche, 2016): the protein message has landed, the carbohydrate message has not.
+- **Following the science pays.** Non-elite marathoners following a science-based in-race strategy (gels targeting about 60 g/h) finished 10 min 55 s (4.7%) faster than matched runners eating freely (Hansen et al., 2014, n=28). In an analysis of 1.9 million marathon results, 28% of men and 17% of women "hit the wall" (Smyth, 2021).
 - **Under-fueling risk is common in recreational samples.** 45% of female recreational gym exercisers (Slater et al., 2016, n=109), 43% of trail runners (Henninger et al., 2024, n=1,899) and 47.2% of non-elite male endurance athletes (Lane et al., 2019, n=108) screened at risk of low energy availability. These are screening estimates, and self-report can inflate them (McHaffie et al., 2025).
 - **Knowledge is thin.** 53% of Americans don't know how many grams of protein they need and 26% are unsure (IFIC protein spotlight, 2025). Only 1.8% of amateur endurance athletes identified the carbohydrate dose for rapid glycogen refuelling (Csanaky et al., 2025).
 - **Weight-driven tracking carries risk.** 73% of people with an eating disorder who used MyFitnessPal perceived it as contributing to their disorder (Levinson et al., 2017, n=105). In a four-year cohort, using self-monitoring apps for weight management predicted more disordered weight-control behavior (Hahn et al., 2024). Fair counterpoint: a 12-month RCT found no rise in eating-disorder symptoms with MyFitnessPal (Jospe et al., 2018, n=250), and most harm evidence is cross-sectional (Anderberg et al., 2025).
@@ -72,6 +72,16 @@ Reading it fairly: grades depend on crowd-entered categories (one SiS GO barcode
 | **Energy availability** | In a calorie app a deficit is the goal; for an athlete in heavy training it is a health and performance risk (REDs; Mountjoy et al., 2023) |
 | **The goal itself** | "Sub-4 marathon", "HYROX PR" and "build muscle" are not weight goals; MacroFactor's App Store goals are weight loss, maintenance and weight gain |
 
+### 1.5 Plans and Lessons Ask Too Much: small, repeated swaps fit amateur lives
+
+- **Knowledge alone rarely changes intake.** In a randomized trial with 79 young endurance athletes, nutrition education raised knowledge scores (from 78 to 85-86), but "the nutrition education intervention alone was not enough to change dietary intake," carbohydrate stayed "below endurance athletes' recommendations," and the mobile app "did not improve learning further" (Heikkilä et al., 2019). A review of 28 studies found only "weak-to-moderate" links between athletes' nutrition knowledge and their diets (Janiczak et al., 2022).
+- **Adherence, not the plan, decides results.** In a one-year randomized trial of four popular diets in overweight adults, weight loss was associated with self-reported adherence (r = 0.60) but not with diet type (r = 0.07), and "overall dietary adherence rates were low" (Dansinger et al., 2005). It is a weight-loss trial, not a sports one, but the lesson transfers: the best plan is the one a person keeps.
+- **Swaps change choices, especially for beginners.** In a randomized online-shopping trial (n=550), offering swaps improved the nutritional quality of baskets about three times as much as Nutri-Score labels (B = -9.58 vs. -3.28; Jansen et al., 2021). In another (n=428), swaps on top of Nutri-Score improved baskets further (d = -0.48), and people with lower nutrition knowledge and motivation benefited most (Schruff-Lim et al., 2024). A review of 35 trials found that education-only interventions did not change purchases in real stores, while "swap interventions appeared promising" (Hartmann-Boyce et al., 2018).
+- **The limits are real.** Every swap trial so far involves general-population shoppers aiming for less sugar, fat or energy, the opposite of many fueling goals. Effects are modest and often short-term: in one trial, participants accepted a median of one of about four offered swaps, with no significant change in energy density (Forwood et al., 2015). No swap trial in athletes exists (PubMed search, 5 October 2026).
+- **Habits form from small actions repeated in the same context.** In a 12-week study of new daily eating, drinking or activity behaviors, automaticity took a median of 66 days to plateau (range 18-254), and missing a single opportunity did not materially affect the process (Lally et al., 2010). Habit-based advice works by tying one small action to a consistent cue (Gardner, Lally and Wardle, 2012): one swap at a recurring meal is that kind of action.
+- **Game mechanics add a small, real lift, not the main effect.** Across 16 randomized trials, gamified interventions increased physical activity with a small-to-medium effect (Hedges g = 0.42), smaller but still significant against non-gamified versions of the same programs (g = 0.23) and after follow-up (g = 0.15) (Mazeas et al., 2022). Across 36 trials of health apps, gamification produced trivial-to-small gains over non-gamified apps in steps and adiposity, and no differences in the other outcomes measured, including dietary factors (Nishi et al., 2024). In children and adolescents, game-based programs raised nutrition knowledge and fruit and vegetable intake (Suleiman-Martos et al., 2021). The implication: a score and a game can make better choices more engaging and help them stick, but the engine has to be the recommendation.
+- **Authority quote**: "the nutrition education intervention alone was not enough to change dietary intake" (Heikkilä et al., *Nutrients*, 2019)
+
 ## PART 2: THE COMPETITIVE LANDSCAPE
 
 ### The Category Map
@@ -83,11 +93,12 @@ Reading it fairly: grades depend on crowd-entered categories (one SiS GO barcode
 | **MacroFactor** | "What should my macros be to move my body weight?" | 600K+ users (company) | 4.8 (23K) | $71.99/yr | Weight and body-composition goals only; no session fueling or food quality |
 | **Cronometer** | "What nutrients am I actually getting?" | 13M+ users (company) | 4.8 (99K) | Gold $59.99/yr | A precise ledger with no training context |
 | **Hexis** | "How many carbs does my training need today?" | Elite: claims about 40% of Tour de France riders; consumer: 29 US ratings | 2.7 (29, US) | €129.99/yr | Endurance-first plan; logging "is the grind" (Roadman Cycling, 2026) |
-| **Fuelin** | "What's my fueling plan around today's workout?" | 65K+ downloads; about 3,000 monthly age-group athletes (company, 2025) | 4.5 (1.3K) | $139/yr | Plan-first; meal-level carbohydrate traffic light; premium price |
+| **Fuelin** | "What should I eat today, and when?" | 65K+ downloads; about 3,000 monthly age-group athletes (company, 2025) | 4.5 (1.3K) | $139/yr; coach tier $399/yr | Plan-first ("exactly what to eat, when to eat it"), with targets and lessons; no swaps or game mechanics in its listing |
 | **FoodCoach** | "What should I eat today, per my plan?" | Small | 2.6 (14) | $60/yr | Meal plans; no photo logging; no food score |
 | **Yuka** | "Is this product healthy?" | About 89.5M users (company counter) | 4.8 (100K) | Freemium | 30% of the score is additives; packaged goods; no context |
 | **ZOE** | "Is this food good for my long-term health?" | 200K+ gut tests; free US app | n/a | £119.88/yr (ZOE 2.0) | Health-for-everyone score; marks fast carbohydrate down |
 | **Apple (iOS 27)** | "Is this plate processed, high-protein or sugary?" | Built into iPhone 15 Pro and later | n/a | Free | General-health glance; no training context |
+| **Healthy-swap scanners** (Swapd, NutriSwap, HealthySwap) | "Is there a healthier product than this one?" | Tiny: 0-5 US ratings each | n/a | Free or freemium | General-health swaps for packaged products; no goal or training input |
 | **Garmin, Google, Oura** | "How does food relate to my body data?" | Large wearable bases | n/a | $69.99/yr (Garmin Connect+); $99/yr (Google Health) | Food is a feature; generic calorie and macro targets |
 
 ### Competitor Deep Dives
@@ -148,25 +159,25 @@ The trusted brand among evidence-minded lifters and the most dangerous adjacent 
 - "food logging is just not very good... clunky and not user friendly"; "too many bugs... logging your food is a pain" (US App Store reviews).
 
 **Assessment**
-Hexis owns the science of fueling and the elite proof, and Carb Coding is the closest existing analogue to a context-aware score: meal-level carbohydrate amounts set by training load. It is endurance-first, plan-first and hard to use, but it has fresh money pointed at amateurs.
+Hexis owns the science of fueling and the elite proof, and Carb Coding is the closest existing analogue to context-aware meal advice: meal-level carbohydrate amounts set by training load. It is endurance-first, plan-first and hard to use, but it has fresh money pointed at amateurs.
 
 #### 4. FUELIN
 
 **Overview**
-- Training-based nutrition app (Thrive AI Labs); co-founder and Chief Nutrition Officer Scott Tindal; triathlete Daniela Ryf holds the title "Chief Fueling Officer." Claims 65,000+ downloads, "5,000,000+ workouts fueled" and 140+ countries; 4.5 stars on 1.3K US ratings; Autopilot $29/month or $139/year, Copilot coaching $99/month.
+- "Fuelin - Performance Nutrition" on the US App Store, subtitled "Sports Nutrition Coaching," from Thrive AI Labs; co-founder and Chief Nutrition Officer Scott Tindal; triathlete Daniela Ryf holds the title "Chief Fueling Officer." Claims 65,000+ downloads, "5,000,000+ workouts fueled" and 140+ countries; 4.5 stars on 1,267 US ratings (5 October 2026). Autopilot costs $29/month or $139/year; Copilot, which adds "1:1 messaging with a Fuelin nutrition coach and bi-weekly live coaching sessions," $99/month or $399/year.
 
 **How It Works**
-Syncs training from TrainingPeaks, Strava, Garmin and others and sets fueling targets around each workout, shown as a carbohydrate traffic light ("Red = Lower, Yellow = Moderate, Green = Higher"). AI food recognition since April 2025; Smart Meals (November 2025) suggests meals from your ingredients or a restaurant menu, aligned to "training load, macro targets, and performance goals."
+"Fuelin builds a daily nutrition plan just for you" that "automatically adjusts to your workouts" (App Store), syncing TrainingPeaks, Strava, Garmin and others; the homepage promises "exactly what, when, and how to eat to perform your best" with "precise macros and calorie targets." Carbohydrate guidance appears as a traffic light ("Red = Lower, Yellow = Moderate, Green = Higher"). Food is logged by AI photo recognition (since April 2025), voice, text or barcode, or imported from MyFitnessPal and Lose It!. Smart Meals (November 2025) suggests meals from your ingredients or a restaurant menu, aligned to "training load, macro targets, and performance goals." A Sweat Rate Tracker and Carb Capacity Testing serve endurance athletes. Education comes as content: "Learn portion control, supplement use, and energy balance through in-app lessons and videos."
 
 **Claims vs. Reality**
-- **Company claim:** "the world's first adaptive nutrition coach built for active individuals"; goal options include "Dominate my Hyrox event", "Build muscle and get stronger" and "Improve my body composition."
-- **Independent findings:** none beyond store ratings; "over 3000 monthly age-group athletes" (company, April 2025) indicates modest scale.
+- **Company claim:** "the world's first adaptive nutrition coach built for active individuals," which "tells you exactly what to eat, when to eat it, and why it matters"; goal options include "Dominate my Hyrox event", "Build muscle and get stronger" and "Improve my body composition", and its store listing says thousands of users "can recover faster, lose weight, gain muscle."
+- **Independent findings:** none beyond store ratings; "over 3000 monthly age-group athletes" (company, April 2025) indicates modest scale. Its App Store description (read 5 October 2026) never mentions a swap and shows no game mechanics: no streaks, badges, points or scores.
 
 **User Complaints / Weaknesses**
 - A marathoner cites integration limits and no free trial: "I'm stuck with it for a year" (US App Store review).
 
 **Assessment**
-The most direct overlap: amateur-inclusive, explicitly HYROX, lifting and endurance, with AI logging and goal-aligned meal suggestions. Its model is the plan (what to eat before you eat), at a premium price, with modest reach. The gap it leaves is judging the food you actually chose, and naming the one change that matters.
+The most direct overlap: amateur-inclusive, explicitly HYROX, lifting and endurance, with AI logging, goal-aligned meal suggestions and lessons. Its model, in its own words, is to tell you "exactly what to eat, when to eat it": a plan with targets, taught through lessons and backed by a coach. That is a coherent position for athletes who will live by a plan. The gap it leaves is its opposite: improving the food an amateur has already chosen, one swap at a time, and teaching through the meal instead of a lesson. Any differentiation from Fuelin has to sit on that axis, because nearly every feature (photo logging, workout sync, goal options, HYROX) is shared.
 
 #### 5. GENERAL-HEALTH FOOD SCORES (YUKA, ZOE, NUTRI-SCORE, APPLE)
 
@@ -188,7 +199,7 @@ Each scores a food on its general-health profile per 100 g or per serving: energ
 - ZOE's own logic marks red velvet cake 18/100 because it is "digested quickly, and with very little fibre", the exact property an athlete wants mid-session.
 
 **Assessment**
-The food-score habit is mainstream and now free at the operating-system level, so "we score food" is not a differentiator. Every existing score is a general-health score, context-blind by construction. A score that changes with the training session is unoccupied.
+The food-score habit is mainstream and now free at the operating-system level, so "we score food" is not a differentiator, and a position cannot rest on a score. Every existing score is a general-health score, context-blind by construction; a goal-aware score is useful only as feedback on a recommendation.
 
 #### 6. WEARABLES ADDING FOOD (GARMIN, GOOGLE, OURA)
 
@@ -214,11 +225,13 @@ The platforms own the training data and the wrist, and they are converging food 
 
 **Approach 2: The adaptive macro algorithm.** Used by: MacroFactor, RP Diet Coach, Carbon. Strength: rigorous, and trusted by evidence-minded lifters. Weakness (structural): built around body-weight trend, measured over days and weeks rather than sessions.
 
-**Approach 3: The prescriptive fueling plan.** Used by: Hexis, Fuelin, FoodCoach, Mavr. Strength: periodized, guideline-based science. Weakness (structural for amateurs): plans demand compliance, carry elite framing, and code meals by carbohydrate amount rather than judging the food you actually chose.
+**Approach 3: The prescriptive nutrition plan.** Used by: Fuelin, Hexis, FoodCoach, Mavr. Strength: periodized, guideline-based science. Weakness (structural for amateurs): plans demand adherence, carry elite framing, and tell you what to eat rather than improving the food you actually chose.
 
 **Approach 4: The general-health score.** Used by: Yuka, ZOE, Nutri-Score, Lifesum, Apple. Strength: simple, free and habitual. Weakness (structural): a per-100 g health profile with no input for training.
 
 **Approach 5: The wearable add-on.** Used by: Garmin, Google, Oura; WHOOP reads food from other apps. Strength: owns training data and distribution. Weakness (executional, for now): food is a feature with generic targets.
+
+**Approach 6: The healthy-swap scanner.** Used by: Swapd, NutriSwap, HealthySwap and FoodSwitch; Yuka suggests alternatives. Strength: a concrete, low-effort action. Weakness (structural): general-health swaps (less sugar, fat or additives) with no goal or training input, and tiny reach.
 
 ### The Failure Modes
 
@@ -226,27 +239,30 @@ The platforms own the training data and the wrist, and they are converging food 
 A per-day budget and a per-100 g score cannot see the session ahead, while the guidelines tie nutrition to "the needs of daily training sessions" (Thomas et al., 2016). The incumbents cannot fix this without abandoning their model, which makes it the strongest repositioning lever in the category.
 
 **2. Portion error (fundamental to photo logging, shrinking)**
-Photos undercount energy by about a third (NIH, 2026) while identifying foods well (Li et al., 2024). Any product built on a precise calorie total inherits the error; a score that leans on what was eaten and when inherits less of it.
+Photos undercount energy by about a third (NIH, 2026) while identifying foods well (Li et al., 2024). Any product built on a precise calorie total inherits the error; a recommendation that leans on what was eaten and when inherits less of it.
 
-**3. Compliance burden (fundamental to plans)**
-Plans assume the athlete will cook to them, and Hexis's own partner reviewer calls logging "the grind." Knowledge alone does not change intake: an education program raised young endurance athletes' nutrition knowledge but not their carbohydrate intake, and the app added nothing to learning (Heikkilä et al., 2019).
+**3. Adherence burden (fundamental to plans)**
+Plans assume the athlete will eat to them: Fuelin "tells you exactly what to eat, when to eat it," and Hexis's own partner reviewer calls logging "the grind." Results follow adherence rather than the plan itself (Dansinger et al., 2005), and amateurs' weeks are full of meals no plan controls: work lunches, family dinners, travel.
 
-**4. Weight-loss defaults (fundamental to calorie apps)**
+**4. Knowledge without behavior (fundamental to lessons)**
+Lessons raise knowledge, but knowledge rarely changes intake: an education program raised young endurance athletes' nutrition knowledge but not their carbohydrate intake, and an app added nothing to learning (Heikkilä et al., 2019); education-only interventions did not change purchases in real stores (Hartmann-Boyce et al., 2018).
+
+**5. Weight-loss defaults (fundamental to calorie apps)**
 A deficit is the default success state. For athletes in heavy training it is a risk, and weight management is the motive most associated with later disordered behavior among app users (Hahn et al., 2024).
 
-**5. Elite framing (solvable)**
+**6. Elite framing (solvable)**
 Fueling apps sell pro proof to people with day jobs, and their consumer traction is thin: Hexis has 29 US ratings, Saturday 154 and Mavr 8, and Supersapiens shut down in February 2024 on about €1.3M of 2023 revenue (DC Rainmaker).
 
 ### What Nobody Does
 
 **No player combines:**
-1. Effortless photo logging of the food you already eat, with no meal plan to follow
-2. A score for each food and plate that changes with your goal and your next session
-3. A concrete swap that raises that score, instead of a plan or a lecture
+1. Recommendations on the food you already eat: snap a meal, with no plan to follow and no food scale
+2. One science-based swap per meal, ranked by what matters most for your goal and your next session
+3. Learning by doing: each swap carries one line of why, and a light game makes better choices stick, instead of lessons
 4. One app across strength, endurance and hybrid (HYROX) goals
 5. No weight-loss default: energy watched as a floor that protects training, never budgeted as a ceiling
 
-Honest reading: Fuelin covers 1 and 4 and comes close to 3 with Smart Meals, which suggests meals before you eat rather than swapping what you chose. Hexis covers a version of 2 at the meal and carbohydrate level, for endurance. MyFitnessPal's AI Coach answers "what to eat," including before workouts. No single product combines all five, and every piece is copyable.
+Honest reading: Fuelin covers 4 and part of 1 (it logs real food), but its model is the plan: it tells you what to eat, Smart Meals suggests meals before you eat rather than swapping what you chose, and it teaches through lessons, with no swaps or game mechanics in its store listing. Hexis periodizes carbohydrate per meal for endurance athletes, as a plan. MyFitnessPal's AI Coach answers "what to eat," and the healthy-swap scanners swap for general health with no training input. No single product combines all five, and every piece is copyable: the gap is a position, not a moat.
 
 This is the strategic gap.
 
@@ -276,7 +292,7 @@ This is the strategic gap.
 - **AI photo logging became table stakes in under two years:** Hexis (November 2024), MacroFactor (March 2025), Fuelin (April 2025), Oura and ZOE (May 2025), Cronometer (September 2025), Garmin (January 2026), Google Health (May 2026). 28% of health and fitness apps now bid on AI keywords (Sensor Tower, February 2026), and Apple's iOS 27 gives away a photo health rating (September 2026).
 - **Health and fitness app spending hit a record $4.5 billion in 2025 (+13%) while downloads grew only 0.8%** (Sensor Tower, February 2026): growth comes from monetizing engaged users, not from finding new ones.
 
-### Protein Went Mainstream; Fuel Did Not
+### Protein Went Mainstream; Carbohydrate Did Not
 - **70% of Americans try to consume protein, and 23% follow a high-protein diet, the most common diet three years running** (IFIC, 2025).
 - **Signs of saturation:** "Good source of protein" as a definition of healthy food fell from 38% to 33% (IFIC, 2026), and BellRing (Premier Protein) cut its FY2026 growth guidance to 1-3% (August 2026).
 - **Carbohydrate has no equivalent wave.** Athletes' mean daily carbohydrate intakes range from 2.4 to 4.6 g/kg across 28 studies (Janiczak et al., 2022), below the 5-7 g/kg the guidelines set for about an hour of moderate training a day (Thomas et al., 2016).
@@ -302,12 +318,19 @@ This is the strategic gap.
 | Nutri-Score for sport nutrition products | "cannot be used" | Santé publique France Q&A, 2025 |
 | Marathoners meeting 60-90 g/h in race | 5.3% | *European Journal of Sport Science*, 2025 |
 | Marathon in-race carbohydrate | 35 g/h (n=160) | Jiménez-Alfageme et al., 2025 |
-| Fueling plan vs. free choice, amateur marathon | 4.7% (10 min 55 s) faster | Hansen et al., 2014 |
+| Science-based race carbohydrate strategy vs. free choice, amateur marathon | 4.7% (10 min 55 s) faster | Hansen et al., 2014 |
 | Marathoners who hit the wall | 28% of men, 17% of women (1.9M results) | Smyth, 2021 |
 | Recreational athletes at risk of low energy availability | 43-47% (screening) | Henninger et al., 2024; Lane et al., 2019 |
 | Non-elite athletes meeting daily carbohydrate guideline | 45.7% (vs. 87.1% reaching 1.2 g/kg protein) | Masson and Lamarche, 2016 |
 | Americans who don't know their protein needs | 53% (plus 26% unsure) | IFIC protein spotlight, 2025 |
 | Amateurs who know the glycogen-refuel carbohydrate dose | 1.8% | Csanaky et al., 2025 |
+| Nutrition education vs. intake, young endurance athletes | Knowledge up (78 to 85-86); intake unchanged | Heikkilä et al., 2019 |
+| Weight loss vs. adherence and diet type, four popular diets | r = 0.60 (adherence) vs. r = 0.07 (diet type) | Dansinger et al., 2005 |
+| Swap offer vs. Nutri-Score label, basket nutrient score | B = -9.58 vs. -3.28 (n=550) | Jansen et al., 2021 |
+| Swaps added to Nutri-Score | d = -0.48; low-knowledge shoppers benefited most (n=428) | Schruff-Lim et al., 2024 |
+| Habit automaticity plateau | Median 66 days (range 18-254) | Lally et al., 2010 |
+| Gamification effect on physical activity | g = 0.42 overall; g = 0.23 vs. non-gamified versions | Mazeas et al., 2022 |
+| Gamified vs. non-gamified health apps | +489 steps/day; no difference in dietary outcomes | Nishi et al., 2024 |
 | People with an eating disorder who said MyFitnessPal contributed | 73% | Levinson et al., 2017 |
 | HYROX participants | About 175,000 (2022/23) to over 1.5M (2025/26) | Infront; HYROX, 2026 |
 | HYROX 2026/27 target | 2M+ athletes, 107 race weekends | HYROX, July 2026 |
@@ -320,7 +343,8 @@ This is the strategic gap.
 | Health and fitness app spending, 2025 | $4.5B (+13%); downloads +0.8% | Sensor Tower, February 2026 |
 | MacroFactor users | 600K+ | MacroFactor annual report, 2026 |
 | Hexis seed round | $2.1M (June 2026) | Silicon Republic, 2026 |
-| Fuelin scale | 65K+ downloads; 4.5 stars on 1.3K ratings | Fuelin; US App Store, 2026 |
+| Fuelin scale and price | 65K+ downloads; 4.5 stars on 1,267 US ratings; Autopilot $29/month or $139/year, Copilot $99/month or $399/year | Fuelin; US App Store, 5 October 2026 |
+| Athlete nutrition apps built around swaps | None found; general-health swap scanners have 0-5 US ratings each | US App Store search, 5 October 2026 |
 | Yuka users | About 89.5M | Yuka homepage counter, October 2026 |
 
 ## MARKET LANDSCAPE OBSERVATIONS
@@ -329,13 +353,13 @@ This is the strategic gap.
 
 2. **The leader has noticed the athlete and is answering with line extension.** Cal AI "for performance-oriented members," a HYROX Tampa sponsorship and an AI Coach bolt performance content onto a calorie counter. The incumbent has validated the demand without changing its unit.
 
-3. **Logging is solved and food scores are everywhere; a training-aware score is not.** At least eight players launched photo logging between November 2024 and May 2026, and Apple gives a photo health rating away. Identification is reliable (87-97%) while quantity is not (about a third undercounted), and every existing score is a general-health score that Nutri-Score's own owner says does not apply to sport nutrition.
+3. **Logging is solved and food scores are everywhere; neither can carry a position.** At least eight players launched photo logging between November 2024 and May 2026, and Apple gives a photo health rating away. Identification is reliable (87-97%) while quantity is not (about a third undercounted), every existing score is a general-health score that Nutri-Score's own owner says does not apply to sport nutrition, and game mechanics add only small effects on their own (Nishi et al., 2024). Value has moved from counting and grading food to advising on it.
 
-4. **Performance-nutrition apps proved the science, not the consumer.** Hexis has elite proof but 29 US App Store ratings; Fuelin has about 1,300 and Saturday 154; Supersapiens shut down. No brand owns "fuel" in the amateur's mind yet, and Hexis has just raised money to try.
+4. **Performance-nutrition apps proved the science, not the consumer, and they deliver it as plans.** Hexis has elite proof but 29 US App Store ratings; Fuelin has about 1,300 and Saturday 154; Supersapiens shut down. Fuelin, the closest competitor, shares almost every feature a new entrant could build (photo logging, workout sync, HYROX and lifting goals), and "fuel" is taken: Fuelin carries it in its name and Hexis built its science story on it. What Fuelin cannot adopt without contradicting itself is its opposite: no plan, one swap.
 
-5. **The audience is large, young, goal-driven and under-fueled.** HYROX reports 1.4-1.5 million participants, London drew 1.34 million ballot applications, and Gen Z leads gym growth; yet only 5.3% of marathoners in one study hit race carbohydrate targets, and amateurs who fueled to a plan ran 4.7% faster.
+5. **The audience is large, young, goal-driven and under-fueled.** HYROX reports 1.4-1.5 million participants, London drew 1.34 million ballot applications, and Gen Z leads gym growth; yet only 5.3% of marathoners in one study hit race carbohydrate targets, and amateurs who followed a science-based race strategy ran 4.7% faster.
 
-6. **The evidence supports simple context rules, and nothing yet proves that context-aware scoring changes outcomes.** The best-supported rules are to fuel hard and long sessions adequately and to cover daily protein; timing matters little for muscle once totals are met (Schoenfeld et al., 2013), and swaps beat labels in general-population trials only modestly (Jansen et al., 2021). No trial has tested goal- or day-aware food scoring in athletes, and HYROX fueling has no published research at all.
+6. **The evidence favors small, specific, repeated changes over plans and lessons, within honest limits.** Knowledge alone rarely changes intake (Heikkilä et al., 2019), results follow adherence (Dansinger et al., 2005), swaps beat labels and help beginners most (Jansen et al., 2021; Schruff-Lim et al., 2024), and habits form from small repeated actions (Lally et al., 2010). The best-supported rules are few: fuel hard and long sessions adequately and cover daily protein, while timing matters little for muscle once totals are met (Schoenfeld et al., 2013). But swap trials come from general-population shoppers with modest effects, and no trial has tested swaps or goal-aware recommendations in athletes, nor HYROX fueling at all.
 
 7. **The opportunity is a category-level divergence that is real, thin and time-limited.** The gap survives an honest reading (no player combines all five capabilities), but every piece is copyable, and three sides are moving toward it: Hexis and Fuelin from performance, MacroFactor from lifting, platforms from distribution. The winner will be the first brand in the amateur's mind, not the first to ship the feature.
 
@@ -393,6 +417,17 @@ This is the strategic gap.
 - [Jansen et al. 2021: swaps vs. Nutri-Score labels](https://pubmed.ncbi.nlm.nih.gov/34863208/)
 - [Heikkilä et al. 2019: nutrition education and an app in young endurance athletes](https://pubmed.ncbi.nlm.nih.gov/31540535/)
 
+**Behavior change, habits and gamification**
+- [Schruff-Lim et al. 2024: swaps on top of Nutri-Score](https://pubmed.ncbi.nlm.nih.gov/38113984/)
+- [Forwood et al. 2015: swaps offered in online shopping](https://pubmed.ncbi.nlm.nih.gov/26109390/)
+- [Hartmann-Boyce et al. 2018: grocery store interventions, systematic review](https://pubmed.ncbi.nlm.nih.gov/29868912/)
+- [Dansinger et al. 2005: adherence vs. diet type in four popular diets](https://pubmed.ncbi.nlm.nih.gov/15632335/)
+- [Lally et al. 2010: how habits are formed in the real world](https://doi.org/10.1002/ejsp.674)
+- [Gardner, Lally and Wardle 2012: making health habitual](https://pubmed.ncbi.nlm.nih.gov/23211256/)
+- [Mazeas et al. 2022: gamification and physical activity, meta-analysis of RCTs](https://pubmed.ncbi.nlm.nih.gov/34982715/)
+- [Nishi et al. 2024: health apps with and without gamification, meta-analysis](https://pubmed.ncbi.nlm.nih.gov/39764571/)
+- [Suleiman-Martos et al. 2021: gamification for diet in children and adolescents](https://pubmed.ncbi.nlm.nih.gov/34371989/)
+
 **Under-fueling and athlete behavior**
 - [*European Journal of Sport Science* 2025: race-day carbohydrate in endurance athletes](https://pmc.ncbi.nlm.nih.gov/articles/PMC12501108/)
 - [Jiménez-Alfageme et al. 2025: Seville Marathon nutrition](https://pubmed.ncbi.nlm.nih.gov/40089940/)
@@ -430,6 +465,7 @@ This is the strategic gap.
 - [Fuelin: US App Store listing](https://apps.apple.com/us/app/fuelin-performance-nutrition/id1579806995)
 - [endurance.biz: Fuelin Smart Meals (November 2025)](https://endurance.biz/2025/industry-news/fuelin-launches-ai-powered-smart-meals-for-endurance-athlete-nutrition/)
 - [Endurance Sportswire: Fuelin App 2.0 (April 2025)](https://www.endurancesportswire.com/fuelin-unveils-fuelin-app-2-0-a-revolution-in-personalized-nutrition-for-athletes/)
+- [iTunes Search API: "food swap" apps in the US store (queried 5 October 2026)](https://itunes.apple.com/search?term=food+swap&entity=software&country=us)
 - [FoodCoach: US App Store listing](https://apps.apple.com/us/app/foodcoach-nutrition-tracker/id6443778029)
 - [Saturday: Pro Fuel & Hydration, US App Store listing](https://apps.apple.com/us/app/saturday-pro-fuel-hydration/id6444738746)
 - [Mavr: US App Store listing](https://apps.apple.com/us/app/mavr-running-race-fuel/id6740541806)
