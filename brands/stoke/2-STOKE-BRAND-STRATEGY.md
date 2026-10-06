@@ -182,7 +182,7 @@ Full details: [4-STOKE-VISUAL-IDENTITY.md](4-STOKE-VISUAL-IDENTITY.md)
 | **Visual hammer** | The Ember: a glowing coal that brightens as the day's fueling tracks your targets and flares when a key session is fueled |
 | **Color** | Stoke Crimson, unoccupied in a category of orange (Strava, Cronometer), blue (MyFitnessPal, Hexis), yellow (HYROX, Fuelin), mint (Yazio) and black (Cal AI, Runna, HYROX); reserved for progress, never for errors |
 | **Typography** | Heavy, slightly rounded grotesk; lowercase "stoke"; plain, small numerals for targets |
-| **App icon / mark** | A single ember glowing from a crimson edge to a warm core on a warm-black tile, no text |
+| **App icon / mark** | A single live coal (dark crust, white-hot cracks, crimson edge) on a warm-black tile, no text; files in `brands/stoke/logo/` |
 | **Design language** | Warm, physical, reassuring, plain-spoken: pro craft, real lives |
 | **What it encodes** | "Pro habits. Real life.": a fire kept alive by small, regular stokes, meal by meal, around a full life |
 
@@ -231,7 +231,7 @@ Full details: [5-STOKE-PR-NARRATIVE.md](5-STOKE-PR-NARRATIVE.md)
 | 8 | Pricing | Proposed, to test before launch: a free tier, 14 days of Premium without a subscription, Premium near $59.99 a year or $9.99 a month (Fuelin: $139 or $29), two-tap cancellation, no coaching upsell | 2026-10-05 |
 | 9 | Distribution | Revised: athlete to athlete (creators and coaches who train around full lives, clubs and gyms, share cards and referrals), PR first, no pro ambassadors | 2026-10-06 |
 | 10 | Body-composition goals | Revised: allowed behind the Energy Floor (capped deficit, never on hard days or race week, never marketed). Pending the safety review | 2026-10-05 |
-| 11 | Visual identity and PR narrative | Revised for the new nail (docs 4 and 5). Design exploration, 16 px testing and the evidence brief pending | 2026-10-06 |
+| 11 | Visual identity and PR narrative | Revised for the new nail (docs 4 and 5); logo refined into a live coal with glowing cracks (`brands/stoke/logo/`). User recognition test, figurative trademark search and the evidence brief pending | 2026-10-06 |
 | 12 | Beachhead: HYROX affiliate gyms and run clubs first; lifters reached through protein targets and gym coaches | Done | 2026-10-05 |
 | 13 | Plan-source integrations (TrainingPeaks, intervals.icu, Garmin, Apple Health) and a Runna partnership | Pending: technical feasibility and partner terms | 2026-10-05 |
 | 14 | Energy Floor, deficit settings and celebration moments: safety review by a sports dietitian and an eating-disorder specialist | Pending, launch-blocking | 2026-10-05 |
