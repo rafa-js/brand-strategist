@@ -1,6 +1,6 @@
-# Fueling for Ambitious Amateurs: Market Research Report
-### The strategic case for bringing proven adaptive fueling to amateurs, with fewer pains, a fairer price and different distribution
-### 5 October 2026
+# Fueling for Real Life: Market Research Report
+### The strategic case for bringing proven adaptive fueling to athletes who train around full lives, with fewer pains, a fairer price and different distribution
+### 5 October 2026 (positioning inputs updated 6 October 2026)
 
 ## DISCOVERY (Inputs)
 
@@ -9,13 +9,13 @@
 | **What is the product or service?** (category, function, target user) | A mobile food-tracking app for people who train. Three proposed value props: effortless food tracking (AI photo logging), science-based food scores, and food swaps based on the user's goal. Target users: amateur athletes with ambitious goals: building muscle, training for a marathon, training for HYROX. |
 | **Who is the competition?** (who occupies nearby rungs on the mental ladder) | Initial answer from the brief: AI calorie-tracking apps. Part 2 widens it to five fronts: calorie counters (MyFitnessPal, which now owns Cal AI), lifter macro coaches (MacroFactor), sports nutrition plans (Fuelin, Hexis), general-health food scores and swap scanners (Yuka, ZOE, Nutri-Score, Apple; Swapd, NutriSwap), and wearables adding food logging (Garmin, Google, Oura). Founder priority: a clear, consistent difference from Fuelin, the closest competitor. |
 | **What position, if any, does the brand currently hold?** | None. New brand, pre-launch: no name, no audience, no claims in market. |
-| **What is the business goal?** (launch, reposition, defend, extend, fix) | Launch. Differentiate from AI calorie trackers by serving people who train and applying modern sports-nutrition science to their goals. Founder clarifications (5 October 2026): the app exists to help amateurs eat better to reach ambitious goals through science-based recommendations, and the food score is there to gamify and teach, not as a goal in itself. Then: "the base of fueling is right." Stoke uses the same fundamentals as the fueling apps (calorie and macronutrient goals that adapt to planned activity), copies what already works, and differentiates on user complaints, pricing and distribution. |
+| **What is the business goal?** (launch, reposition, defend, extend, fix) | Launch. Differentiate from AI calorie trackers by serving people who train and applying modern sports-nutrition science to their goals. Founder clarifications (5 October 2026): the app exists to help amateurs eat better to reach ambitious goals through science-based recommendations, and the food score is there to gamify and teach, not as a goal in itself. Then: "the base of fueling is right." Stoke uses the same fundamentals as the fueling apps (calorie and macronutrient goals that adapt to planned activity), copies what already works, and differentiates on user complaints, pricing and distribution. Founder clarification (6 October 2026): the target users stay ambitious amateurs, but the positioning never calls them that: "Nobody wants to be told they are an amateur. They want to aspire to become a pro." |
 
 Working assumptions not stated in the brief, to confirm: an English-language launch with the US and UK as lead markets, and a product still in development rather than live.
 
 ## EXECUTIVE SUMMARY
 
-Adaptive fueling works, and its users say so. The science is settled: athletes should eat "in relation to sport rather than general daily targets" (Thomas, Erdman and Burke, 2016), and amateur marathoners who followed a science-based race carbohydrate strategy ran 4.7% faster (Hansen et al., 2014). Fuelin, the closest competitor, turns that science into daily targets that adapt to training, and its five-star reviews praise it for taking "the guesswork out." But the fueling apps were built for the committed few. Fuelin offers no free trial ("Fuelin works best when you're all in"), charges $139 a year, features Ironman world champions and sells coaching for up to $1,500 a month. In 142 hand-coded low-rated reviews, 61% raise price, the missing trial or billing, and the top product complaints are logging (28%) and integrations (24%). The category has reached few people: Fuelin reported about 3,000 monthly age-group athletes (2025), while HYROX reports more than 1.5 million participants and London drew 1.34 million ballot applications. Distribution, not accuracy, decided the last round of food apps: Cal AI drew about twenty times the monthly downloads of the better-validated SnapCalorie (Sensor Tower estimates). Yet **no product combines proven adaptive fueling with a free start, a price near the trackers', sync with the plans amateurs follow and amateur-led distribution.** The science is copyable; the access is the gap.
+Adaptive fueling works, and its users say so. The science is settled: athletes should eat "in relation to sport rather than general daily targets" (Thomas, Erdman and Burke, 2016), and amateur marathoners who followed a science-based race carbohydrate strategy ran 4.7% faster (Hansen et al., 2014). Fuelin, the closest competitor, turns that science into daily targets that adapt to training, and its five-star reviews praise it for taking "the guesswork out." But the fueling apps were built for the committed few. Fuelin offers no free trial ("Fuelin works best when you're all in"), charges $139 a year, features Ironman world champions and sells coaching for up to $1,500 a month. In 142 hand-coded low-rated reviews, 61% raise price, the missing trial or billing, and the top product complaints are logging (28%) and integrations (24%). The category has reached few people: Fuelin reported about 3,000 monthly age-group athletes (2025), while HYROX reports more than 1.5 million participants and London drew 1.34 million ballot applications. Distribution, not accuracy, decided the last round of food apps: Cal AI drew about twenty times the monthly downloads of the better-validated SnapCalorie (Sensor Tower estimates). Yet **no product combines proven adaptive fueling with a free start, a price near the trackers', sync with the plans athletes already follow and distribution through the communities where they train.** The science is copyable; the access is the gap.
 
 ## PART 1: WHY TODAY'S TOOLS FAIL PEOPLE WHO TRAIN
 
@@ -309,7 +309,7 @@ Photos undercount energy by about a third (NIH, 2026) while identifying foods we
 **3. Access barriers (fundamental to the premium fueling apps)**
 No free trial by policy (Fuelin's FAQ; Hexis per Roadman Cycling), prices around $130-$140 a year, a paywall that appears after a long onboarding, and cancellation complaints: 61% of Fuelin's low-rated reviews raise price, the missing trial or billing.
 
-**4. Plan blindness for amateurs (executional)**
+**4. Plan blindness outside coached platforms (executional)**
 Adaptive targets are only as good as the plan they read. Fuelin's planned-session sync is praised for TrainingPeaks, the coached athlete's platform, while its reviewers report Runna unsupported, Garmin plans that don't populate and Strava or Final Surge workouts that update targets only after the session (integrations, including planned workouts: 24% of low-rated reviews).
 
 **5. Logging burden (fundamental to every tracker)**
@@ -318,8 +318,8 @@ Logging is a top complaint for Fuelin (28%), Hexis (54%) and MacroFactor (40%), 
 **6. Unsafe targets and weight-loss defaults**
 Calorie apps make a deficit the default success state, and weight management is the motive most associated with later disordered behavior among app users (Hahn et al., 2024). Fueling apps can fail the same way: 20% of Fuelin's low-rated reviews call its targets wrong, unrealistic or unsafe, including one told to "skip meals and fast through heavy training."
 
-**7. Elite framing and pro-led distribution (solvable)**
-Fueling apps sell pro proof to people with day jobs, and their consumer traction is thin: Hexis has 29 US ratings, Saturday 154 and Mavr 8, and Supersapiens shut down in February 2024 on about €1.3M of 2023 revenue (DC Rainmaker).
+**7. Pro faces, all-in framing and pro-led distribution (solvable)**
+Fueling apps sell pro proof to people with day jobs, and their consumer traction is thin: Hexis has 29 US ratings, Saturday 154 and Mavr 8, and Supersapiens shut down in February 2024 on about €1.3M of 2023 revenue (DC Rainmaker). The aspiration is not the failure: people who train for something big want what the pros have, and nobody wants to be called an amateur (founder insight, 6 October 2026). The failure is selling it through the pros' life: champions' faces, all-in programs and pro prices.
 
 ### What Nobody Does
 
@@ -327,9 +327,9 @@ Fueling apps sell pro proof to people with day jobs, and their consumer traction
 1. Calorie and macro targets that adapt to planned sessions (the proven fundamental), explained line by line and protected by an energy floor
 2. A free start: a free tier and a trial without a subscription, with the price shown before setup
 3. A price near the trackers' (about $60 a year), not the coaching apps' ($130-$140)
-4. Planned sessions from the apps amateurs use (Runna, Garmin, intervals.icu, Apple Health), not only TrainingPeaks
+4. Planned sessions from the apps most athletes use (Runna, Garmin, intervals.icu, Apple Health), not only TrainingPeaks
 5. Logging in seconds, in grams or ounces, with a food database for each launch market and targets that never rewrite a meal already eaten
-6. Distribution through amateur communities (clubs, gyms, coaches, creators with day jobs) instead of champions and paid reach
+6. Distribution through the communities where people train (clubs, gyms, coaches, creators with day jobs) instead of champions and paid reach
 
 Honest reading: Fuelin covers 1, and 4 for TrainingPeaks users. Hexis covers 1 for endurance athletes. Mavr covers 1 and part of 3 for endurance and HYROX athletes, but requires a subscription and has 8 US ratings. MacroFactor adapts targets to body weight, with a trial but no free tier. MyFitnessPal and Cronometer have free tiers but fixed targets. Strava owns the community channel but not fueling, and it bought Runna. No single product combines all six, and every piece is copyable: the gap is a position and an execution, not a moat.
 
@@ -446,7 +446,7 @@ This is the strategic gap.
 
 7. **The evidence supports simple rules and low-friction habits, within honest limits.** The best-supported rules are few: fuel hard and long sessions adequately and cover daily protein, while timing matters little for muscle once totals are met (Schoenfeld et al., 2013). Knowledge alone rarely changes intake (Heikkilä et al., 2019), adherence predicted results in a weight-loss trial (Dansinger et al., 2005), and swaps helped grocery shoppers (Jansen et al., 2021; Schruff-Lim et al., 2024). No trial has tested adaptive fueling apps or swaps in amateurs, and we found no HYROX fueling study.
 
-8. **The opportunity is real, thin and time-limited.** No player combines all six capabilities in What Nobody Does, but every piece is copyable, and three sides are moving: Hexis's direct-to-consumer push, MacroFactor's workouts, and Strava's Runna, which already publishes race-day nutrition checklists. The winner will be the first brand in the amateur's mind, not the first to ship the feature.
+8. **The opportunity is real, thin and time-limited.** No player combines all six capabilities in What Nobody Does, but every piece is copyable, and three sides are moving: Hexis's direct-to-consumer push, MacroFactor's workouts, and Strava's Runna, which already publishes race-day nutrition checklists. The winner will be the first brand in these athletes' minds, not the first to ship the feature.
 
 ## SOURCES
 
@@ -490,6 +490,7 @@ This is the strategic gap.
 - [Thomas, Erdman and Burke 2016: ACSM/AND/DC joint position (PubMed)](https://pubmed.ncbi.nlm.nih.gov/26891166/)
 - [Thomas, Erdman and Burke 2016: full text (Dietitians of Canada)](https://www.dietitians.ca/DietitiansOfCanada/media/Documents/Resources/noap-position-paper.pdf)
 - [Jäger et al. 2017: ISSN position stand, protein and exercise](https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/)
+- [Jeukendrup 2017: training the gut for athletes](https://pubmed.ncbi.nlm.nih.gov/28332114/)
 - [Morton et al. 2018: protein and resistance training meta-analysis](https://pubmed.ncbi.nlm.nih.gov/28698222/)
 - [Schoenfeld and Aragon 2018: per-meal protein](https://pubmed.ncbi.nlm.nih.gov/29497353/)
 - [Schoenfeld, Aragon and Krieger 2013: protein timing meta-analysis](https://pubmed.ncbi.nlm.nih.gov/24299050/)
@@ -510,6 +511,8 @@ This is the strategic gap.
 - [Dansinger et al. 2005: adherence vs. diet type in four popular diets](https://pubmed.ncbi.nlm.nih.gov/15632335/)
 - [Lally et al. 2010: how habits are formed in the real world](https://doi.org/10.1002/ejsp.674)
 - [Gardner, Lally and Wardle 2012: making health habitual](https://pubmed.ncbi.nlm.nih.gov/23211256/)
+- [Atoms (from Atomic Habits): US App Store listing, 10,717 ratings (read 6 October 2026)](https://apps.apple.com/us/app/id6474421906)
+- [PeakByPros: US App Store listing, no ratings (read 6 October 2026)](https://apps.apple.com/us/app/id6745181932)
 - [Mazeas et al. 2022: gamification and physical activity, meta-analysis of RCTs](https://pubmed.ncbi.nlm.nih.gov/34982715/)
 - [Nishi et al. 2024: health apps with and without gamification, meta-analysis](https://pubmed.ncbi.nlm.nih.gov/39764571/)
 - [Suleiman-Martos et al. 2021: gamification for diet in children and adolescents](https://pubmed.ncbi.nlm.nih.gov/34371989/)
@@ -625,3 +628,8 @@ This is the strategic gap.
 - [IFIC 2025 Food & Health Survey](https://ific.org/wp-content/uploads/IFIC-FH-Survey-Food-Nutrition-October-2025.pdf)
 - [IFIC 2026 Food & Health Survey](https://ific.org/wp-content/uploads/2026-IFIC-Food-Health-Survey-Dietary-Guidance-and-Processed-Food.pdf)
 - [BellRing Brands: Q3 FY2026 results (SEC exhibit)](https://www.sec.gov/Archives/edgar/data/0001772016/000162828026052137/brbrexh991-q32026earningsr.htm)
+
+**Brand precedents cited in the strategy (read 6 October 2026)**
+- [Nike: About Nike ("If you have a body, you are an athlete")](https://about.nike.com/en)
+- [GoPro: company history and the origin of the name (Wikipedia)](https://en.wikipedia.org/wiki/GoPro)
+- [Dove Campaign for Real Beauty, launched in 2004 (Wikipedia)](https://en.wikipedia.org/wiki/Dove_Campaign_for_Real_Beauty)

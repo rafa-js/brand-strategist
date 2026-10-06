@@ -2,9 +2,9 @@
 
 ## Verbal Nail (Locked)
 
-**"Fueling for the life you already have."** The science of fueling, fitted to an amateur's real life.
+**"Pro habits. Real life."** The pros' fueling habits, fitted to a real week.
 
-Every visual decision encodes this. Not "the podium": pro kit, elite athletes, lab dashboards and endorsement imagery belong to the pros' tools. Not "all in": dense dashboards, walls of numbers and upsell banners make fueling look like a second job. Not "burn" or "budget": the flame and the calories-remaining ring belong to the calorie trackers. Not "clean eating": leaves, salads and pastel greens belong to diet and health apps. Not a game: no scores, trophies, grades or leaderboards. The feeling of a steady fire: meal by meal, session by session, the fueling keeps up with the training, around a day job.
+Every visual decision encodes this. Not the pros' life: champions, podiums, lab dashboards and endorsement imagery picture someone else's week; Stoke pictures the user's own, at pro standards. Not "all in": dense dashboards, walls of numbers and upsell banners make fueling look like a second job. Not "burn" or "budget": the flame and the calories-remaining ring belong to the calorie trackers. Not "clean eating": leaves, salads and pastel greens belong to diet and health apps. Not a game: no scores, trophies, grades, streaks or leaderboards. The feeling of a steady fire: meal by meal, session by session, the habits keep up with the training, around a full life.
 
 ## Visual Hammer
 
@@ -14,9 +14,9 @@ Every visual decision encodes this. Not "the podium": pro kit, elite athletes, l
 
 | Attribute | Assessment |
 |-----------|------------|
-| **What it encodes** | "Fueling for the life you already have.": a fire you keep going yourself, in the life you have, with no furnace and no pit crew: small, regular stokes between work and training. Each meal fueled for the work ahead is a stoke. Re-tested against this nail, the ember still wins, because it pictures self-reliant, everyday care rather than a regimen or a podium. |
+| **What it encodes** | "Pro habits. Real life.": a fire you keep going yourself with small, regular stokes, which is what a habit is: no furnace, no pit crew, no heroics, just the same few acts repeated between work and training. Each meal fueled for the work ahead is a stoke. Re-tested against this nail, the ember still wins, because it pictures a habit kept in a real day rather than a regimen or a podium. |
 | **Emotional tone** | Warm, steady, reassuring: the feeling of being ready for tomorrow. It must never produce guilt, alarm, the chill of a lab result or the judgment of a grade. |
-| **Connection to the name** | Total. You stoke embers: the name is the action (fueling for the work ahead) and the ember is its object (the fire you keep going). Name, symbol and position are one idea: small, regular stokes keep a fire burning. |
+| **Connection to the name** | Total. You stoke embers: the name is the action (a small, regular act of fueling for the work ahead: a habit) and the ember is its object (the fire you keep going). Name, symbol and position are one idea: small, regular stokes keep a fire burning. |
 | **Uniqueness in category** | Inventory: progress rings (Apple's Activity rings and the calorie-remaining rings common in tracker dashboards); traffic-light color codes (Hexis's green/amber/red Carb Coding, Fuelin's red/yellow/green carb guide, Nutri-Score's A to E); semicircular gauges (the visual language of wearable readiness and strain scores); chevrons (Strava); plain wordmarks (Cal AI). No food or fitness brand reviewed uses an ember. The space is empty. |
 | **Swap test** | On Fuelin or Hexis, an ember has no meaning inside a traffic-light system. On MyFitnessPal it contradicts the budget: it asks you to keep a fire fed, not to stay under a number. On Strava it reads as a stray heat icon. It reads correctly only on Stoke. **Pass.** |
 | **Reduction test** | Specification, to be tested: at 32x32 px, a rounded crimson coal with a bright core on a warm-black tile; in black and white, a faceted rounded silhouette with a lighter core, distinct from a flame because it has no tongue or point; at 16 px, color carries it. |
@@ -39,7 +39,7 @@ How far from a target counts as "well short" is a starting point for design and 
 
 **The flame.** Tempting because it is the obvious picture of "stoke." It fails because a flame commonly stands for "calories burned" in fitness apps, so it would encode the budget Stoke rejects, and it would pass the swap test onto any calorie app. **Discarded.**
 
-**A podium or medal.** Tempting because it speaks to ambition. It fails because it is the pros' imagery, the opposite of the word Stoke owns, and it turns food into a competition. **Discarded.**
+**A podium or medal.** Tempting because it speaks to ambition and to "pro." It fails because it pictures the pros' outcome rather than their habits, it is the default imagery of sports brands, and it turns food into a competition. **Discarded.**
 
 **A meal calendar or checklist.** Tempting because adaptive targets are the product's core. It fails because the plan view is the category's shared language (the fundamentals Stoke copies on purpose), so it cannot distinguish Stoke. **Discarded.**
 
@@ -47,7 +47,7 @@ How far from a target counts as "well short" is a starting point for design and 
 
 **A traffic-light plate.** Tempting because color-coding a plate is instantly legible, and Fuelin's users praise its glanceable carb guide. It fails as a symbol because it is the category cliché (Fuelin, Hexis, Nutri-Score), it moralizes food as good or bad, and red would mark the very sports foods Stoke recommends in context. Stoke keeps the function (each meal's carbohydrate level at a glance) and drops the colors. **Discarded.**
 
-**The race bib.** Tempting because the pinned number is the badge of the ambitious amateur. It fails because it excludes lifters and belongs to every race organizer. **Discarded.**
+**The race bib.** Tempting because the pinned number is the badge of anyone training for a race. It fails because it excludes lifters and belongs to every race organizer. **Discarded.**
 
 **The lightning bolt.** Tempting because it reads as energy. It fails because it is Gatorade's hammer in sports nutrition. **Discarded.**
 
@@ -94,10 +94,10 @@ The crimson-to-core heat gradient appears only when the day is on track or a key
 
 | Element | Direction |
 |---------|-----------|
-| **Wordmark style** | A heavy, slightly rounded grotesk with tight, confident spacing: athletic but warm, an amateur's brand rather than a lab's. |
+| **Wordmark style** | A heavy, slightly rounded grotesk with tight, confident spacing: athletic but warm, pro-grade craft without the lab. |
 | **Case** | Lowercase: "stoke" |
 | **Reference feel** | Nike's athletic confidence meets Monzo's plain-spoken warmth. Targets in plain tabular numerals; the night-before check in large, plain words ("You're set."); no number styled like a race clock, so nothing invites chasing. |
-| **Avoid** | Thin geometric sans and pastels (diet and wellness apps: reads "calorie counting"); monospace or sci-fi tech faces (the elite-lab look of the pros' tools); stencil or aggressive slab faces (gym-bro, supplement shelves); scripts (lifestyle, not training). |
+| **Avoid** | Thin geometric sans and pastels (diet and wellness apps: reads "calorie counting"); monospace or sci-fi tech faces (the lab look of the coached, all-in tools); stencil or aggressive slab faces (gym-bro, supplement shelves); scripts (lifestyle, not training). |
 
 ## App Icon / Primary Mark
 
@@ -122,19 +122,19 @@ Specification, to be tested at each size before launch:
 | **Today first** | The home screen leads with the next session and today's targets as ranges, each with one line of why ("Tomorrow: 30 km long run. Carbohydrate is higher today."). Each meal's carbohydrate level reads at a glance in words (light, moderate, big), never in traffic-light colors. The ember shows progress; numbers sit small beside it. The fundamentals are legible before anything else appears. |
 | **Celebrate readiness, never punish** | A fueled key session plays the stoke; race-week targets met earn "Stoked." A day that falls short turns the ember cool grey with a plain note of what the next session needs. Never red, never an X, never "over budget," no streaks to break, and rest days bank the fire. |
 | **Inform, don't alarm** | Energy Floor messages are warm and specific ("Your last three hard days ran light. Add a snack before tomorrow's intervals.") with a quiet link to professional help. No shame, no countdowns, no numbers framed as limits. |
-| **Amateurs, never pros** | Photography of real amateurs at 6 am before work, sweat and breath in cold air, work lunches, family dinners, bagels, rice bowls, leftovers, a gel in a pocket. Never pros, podiums, shredded models, before-and-after bodies, scales, measuring tapes, meal-prep grids or salad flat-lays. |
+| **Real lives, pro standards** | Shot to the standard of a pro team's content day, starring people with real weeks: 6 am before work, sweat and breath in cold air, work lunches, family dinners, bagels, rice bowls, leftovers, a gel in a pocket. The craft is pro (light, composition, motion); the people and their weeks are real, and creators who train around full lives are the faces. Never pro athletes as the face, podiums, shredded models, before-and-after bodies, scales, measuring tapes, meal-prep grids or salad flat-lays. |
 
 ## The Integrated System
 
 ```
-Verbal Nail:    "Fueling for the life you already have."
+Verbal Nail:    "Pro habits. Real life."
 Visual Hammer:   The Ember (a glowing coal that brightens as the day's fueling tracks your targets)
 Color Hammer:    Stoke Crimson (unoccupied: orange, blue, yellow, mint and black are taken)
 Typography:      Heavy rounded grotesk, lowercase "stoke"
                  ---------------------------------------
                  = A brand that feels like the training
-                   partner who knows the science but
-                   lives your life: checks your plan,
+                   partner who knows the pros' habits
+                   but lives your life: checks your plan,
                    sets today's targets around your
                    meals, tells you the night before
                    whether you're set, and gets stoked
@@ -149,5 +149,5 @@ Typography:      Heavy rounded grotesk, lowercase "stoke"
 | **Color** | Stoke Crimson (starting at #E0245E) on Ember Black (around #1C1517); the heat gradient is reserved for progress and never used for errors or days that fall short |
 | **Typography** | Heavy, slightly rounded grotesk; lowercase "stoke"; plain, small numerals for targets |
 | **App icon** | A single ember glowing crimson to a warm core on a warm-black tile, no text |
-| **Design language** | Warm, physical, reassuring, plain-spoken, amateur |
-| **What it encodes** | "Fueling for the life you already have.": a fire kept alive by small, regular stokes, meal by meal, around a day job |
+| **Design language** | Warm, physical, reassuring, plain-spoken: pro craft, real lives |
+| **What it encodes** | "Pro habits. Real life.": a fire kept alive by small, regular stokes, meal by meal, around a full life |
