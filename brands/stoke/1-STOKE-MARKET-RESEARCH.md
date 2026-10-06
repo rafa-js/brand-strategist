@@ -15,7 +15,7 @@ Working assumptions not stated in the brief, to confirm: an English-language lau
 
 ## EXECUTIVE SUMMARY
 
-Adaptive fueling works, and its users say so. The science is settled: athletes should eat "in relation to sport rather than general daily targets" (Thomas, Erdman and Burke, 2016), and amateur marathoners who followed a science-based race carbohydrate strategy ran 4.7% faster (Hansen et al., 2014). Fuelin, the closest competitor, turns that science into daily targets that adapt to training, and its five-star reviews praise it for taking "the guesswork out." But the fueling apps were built for the committed few. Fuelin offers no free trial ("Fuelin works best when you're all in"), charges $139 a year, features Ironman world champions and sells coaching for up to $1,500 a month. In 142 hand-coded low-rated reviews, 61% raise price, the missing trial or billing, and the top product complaints are logging (28%) and integrations (24%). The category has reached few people: Fuelin reported about 3,000 monthly age-group athletes (2025), while HYROX reports more than 1.5 million participants and London drew 1.34 million ballot applications. Distribution, not accuracy, decided the last round of food apps: Cal AI drew about twenty times the monthly downloads of the better-validated SnapCalorie (Sensor Tower estimates). Yet **no product combines proven adaptive fueling with a free start, a price near the trackers', sync with the plans athletes already follow and distribution through the communities where they train.** The science is copyable; the access is the gap.
+Adaptive fueling works, and its users say so. The science is settled: athletes should eat "in relation to sport rather than general daily targets" (Thomas, Erdman and Burke, 2016), and non-elite marathoners who followed a science-based race carbohydrate strategy ran 4.7% faster (Hansen et al., 2014). Fuelin, the closest competitor, turns that science into daily targets that adapt to training, and its five-star reviews praise it for taking "the guesswork out." But the fueling apps were built for the committed few. Fuelin offers no free trial ("Fuelin works best when you're all in"), charges $139 a year, features Ironman world champions and sells coaching for up to $1,500 a month. In 142 hand-coded low-rated reviews, 61% raise price, the missing trial or billing, and the top product complaints are logging (28%) and integrations (24%). The category has reached few people: Fuelin reported about 3,000 monthly age-group athletes (2025), while HYROX reports more than 1.5 million participants and London drew 1.34 million ballot applications. Distribution, not accuracy, decided the last round of food apps: Cal AI drew about twenty times the monthly downloads of the better-validated SnapCalorie (Sensor Tower estimates). Yet **no product combines proven adaptive fueling with a free start, a price near the trackers', sync with the plans athletes already follow and distribution through the communities where they train.** The science is copyable; the access is the gap.
 
 ## PART 1: WHY TODAY'S TOOLS FAIL PEOPLE WHO TRAIN
 
@@ -25,7 +25,7 @@ Adaptive fueling works, and its users say so. The science is settled: athletes s
 - **Naming the food is largely solved; measuring it is not.** MyFitnessPal identified 97% of food components and Foodvisor 87%, yet energy errors on mixed dishes ran from -76% (pearl milk tea) to +270% (bibimbap) (Li et al., *Nutrients*, 2024). Carbohydrate error fell from 56.6% to 20.2% when the model was told the true weight: portion is the bottleneck (Mu et al., ACM BCB 2025).
 - **General AI models miss protein worst.** GPT-4o and Claude 3.5 Sonnet estimated energy with 35.8% mean absolute percentage error and protein with about 61%; the authors call them "not yet suitable for precise dietary assessment in clinical or athletic populations" (Fridolfsson et al., *Current Developments in Nutrition*, 2025).
 - **The label itself is approximate by law.** US rules treat a food as misbranded only if its calories run more than 20% above the label, and accept "reasonable deficiencies" below it (21 CFR 101.9(g)(5)-(6)). Reduced-energy restaurant meals measured 18% above stated values on average, with wide variability (Urban et al., 2010); standard Atwater factors overestimate the energy in almonds by 32% (Novotny et al., 2012).
-- **Both sides of the budget are noisy.** Athletes under-report intake by 19% against doubly labelled water (Capling et al., 2017, 11 studies), and no wrist device estimated energy expenditure within 20% (Shcherbina et al., 2017). A fixed daily budget subtracts one noisy number from another, which is why useful targets are ranges that learn from weight trend over weeks, not precise daily quotas.
+- **Both sides of the budget are noisy.** Athletes under-report intake by 19% against doubly labeled water (Capling et al., 2017, 11 studies), and no wrist device estimated energy expenditure within 20% (Shcherbina et al., 2017). A fixed daily budget subtracts one noisy number from another, which is why useful targets are ranges that learn from weight trend over weeks, not precise daily quotas.
 - **Fair counterpoint.** Careful manual entry works: MyFitnessPal energy values correlated with a national reference database at r = 0.96 after cleaning (Evenepoel et al., 2020) and came within 3.7% of weighed intake in a supervised trial (Diktas et al., 2025). The NIH team called the photo error "similar to previously reported underestimation using self-report." The verdict is not that counting is useless; it is that the calorie total is fragile exactly where apps use it as a precise budget, and weaker still in athletes: in endurance athletes MyFitnessPal "showed poor validity for total energy, carbohydrates, protein" (Morello et al., 2025).
 
 ### 1.2 The Concept Is Wrong: a fixed weight-loss budget answers a dieter's question
@@ -65,7 +65,7 @@ Reading it fairly: grades depend on crowd-entered categories (one SiS GO barcode
 
 ### 1.3 The Behavior Doesn't Work: amateurs under-fuel, and weight-driven tracking carries risk
 
-- **Amateurs under-fuel the sessions that matter.** Only 5.3% of marathoners in a 2025 field study met the 60-90 g/h race target, and most athletes were "often overestimating their intake" (*European Journal of Sport Science*, 2025, 60 endurance athletes). Seville marathoners averaged 35 g/h (Jiménez-Alfageme et al., 2025, n=160). Only 45.7% of non-elite multisport athletes met daily carbohydrate recommendations, while 87.1% reached at least 1.2 g/kg of protein (Masson and Lamarche, 2016): the protein message has landed, the carbohydrate message has not.
+- **Amateurs under-fuel the sessions that matter.** Only 2 of 38 marathoners (5.3%) in a 2025 field study at a marathon in Turkey met the study's 60-90 g/h race target, and most athletes were "often overestimating their intake" (*European Journal of Sport Science*, 2025, 60 endurance athletes). Seville marathoners averaged 35 g/h (Jiménez-Alfageme et al., 2025, n=160). Only 45.7% of non-elite multisport athletes met daily carbohydrate recommendations, while 87.1% reached at least 1.2 g/kg of protein (Masson and Lamarche, 2016): the protein message has landed, the carbohydrate message has not.
 - **Following the science pays.** Non-elite marathoners following a science-based in-race strategy (gels targeting about 60 g/h) finished 10 min 55 s (4.7%) faster than matched runners eating freely (Hansen et al., 2014, n=28). In an analysis of 1.9 million marathon results, 28% of men and 17% of women "hit the wall" (Smyth, 2021).
 - **Under-fueling risk is common in recreational samples.** 45% of female recreational gym exercisers (Slater et al., 2016, n=109), 43% of trail runners (Henninger et al., 2024, n=1,899) and 47.2% of non-elite male endurance athletes (Lane et al., 2019, n=108) screened at risk of low energy availability. These are screening estimates, and self-report can inflate them (McHaffie et al., 2025).
 - **Knowledge is thin.** 53% of Americans don't know how many grams of protein they need and 26% are unsure (IFIC protein spotlight, 2025). Only 1.8% of amateur endurance athletes identified the carbohydrate dose for rapid glycogen refueling (Csanaky et al., 2025).
@@ -378,16 +378,16 @@ This is the strategic gap.
 | AI mixed-dish energy error | -76% to +270% | Li et al., *Nutrients*, 2024 |
 | General LLM protein error (MAPE) | about 61% | Fridolfsson et al., 2025 |
 | US label calorie tolerance | Misbranded only above +20% | 21 CFR 101.9(g)(5), current eCFR |
-| Athletes' self-reported intake vs. doubly labelled water | -19% (11 studies) | Capling et al., 2017 |
+| Athletes' self-reported intake vs. doubly labeled water | -19% (11 studies) | Capling et al., 2017 |
 | Wrist-device energy expenditure | No device within 20% | Shcherbina et al., 2017 |
 | Daily carbohydrate by training load | 3-5 / 5-7 / 6-10 / 8-12 g/kg | Thomas, Erdman and Burke, 2016 |
 | Carbohydrate during exercise | 30-60 g/h (1-2.5 h); up to 90 g/h (over 2.5-3 h) | Thomas, Erdman and Burke, 2016 |
 | Protein breakpoint for muscle gain | 1.62 g/kg/day (95% CI 1.03-2.20) | Morton et al., 2018 |
 | Protein per dose | 0.25 g/kg or 20-40 g; 700-3,000 mg leucine | Jäger et al., ISSN, 2017 |
 | Nutri-Score for sport nutrition products | "cannot be used" | Santé publique France Q&A, 2025 |
-| Marathoners meeting 60-90 g/h in race | 5.3% | *European Journal of Sport Science*, 2025 |
+| Marathoners meeting 60-90 g/h in race | 5.3% (2 of 38) | *European Journal of Sport Science*, 2025 |
 | Marathon in-race carbohydrate | 35 g/h (n=160) | Jiménez-Alfageme et al., 2025 |
-| Science-based race carbohydrate strategy vs. free choice, amateur marathon | 4.7% (10 min 55 s) faster | Hansen et al., 2014 |
+| Science-based race carbohydrate strategy vs. free choice, non-elite marathon | 4.7% (10 min 55 s) faster | Hansen et al., 2014 |
 | Marathoners who hit the wall | 28% of men, 17% of women (1.9M results) | Smyth, 2021 |
 | Recreational athletes at risk of low energy availability | 43-47% (screening) | Henninger et al., 2024; Lane et al., 2019 |
 | Non-elite athletes meeting daily carbohydrate guideline | 45.7% (vs. 87.1% reaching 1.2 g/kg protein) | Masson and Lamarche, 2016 |
@@ -440,7 +440,7 @@ This is the strategic gap.
 
 4. **The fueling apps were built for the committed few, and it shows in their reach.** No free trials, prices of $130-$140 a year, coaching ladders up to $1,500 a month and champions on the homepage. Fuelin reported about 3,000 monthly age-group athletes in 2025 and has 1,267 US ratings; Hexis has 29. And "fuel" is taken: Fuelin carries it in its name and Hexis built its science story on it.
 
-5. **The audience is large, goal-driven and under-fueled.** HYROX reports more than 1.5 million participants (an independent results-based count found 278,063 across its first five seasons), London drew 1.34 million ballot applications, and Gen Z has the highest gym membership rate. Yet only 5.3% of marathoners in one study hit race carbohydrate targets.
+5. **The audience is large, goal-driven and under-fueled.** HYROX reports more than 1.5 million participants (an independent results-based count found 278,063 across its first five seasons), London drew 1.34 million ballot applications, and Gen Z has the highest gym membership rate. Yet only 2 of 38 marathoners in one study hit the race carbohydrate target.
 
 6. **Distribution decides consumer nutrition apps.** Cal AI drew about twenty times SnapCalorie's monthly downloads; MacroFactor's users credit creators and friends; Strava's clubs reached 1 million. The official HYROX nutrition slots belong to MyFitnessPal and Myprotein, which leaves gyms, clubs, coaches and creators as the open channels.
 
@@ -483,7 +483,7 @@ This is the strategic gap.
 - [21 CFR 101.9, nutrition labeling (eCFR)](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-A/section-101.9)
 - [Urban et al., *J Am Diet Assoc* 2010: stated vs. measured calories](https://pubmed.ncbi.nlm.nih.gov/20102837/)
 - [Novotny et al., *Am J Clin Nutr* 2012: almond energy](https://pubmed.ncbi.nlm.nih.gov/22760558/)
-- [Capling et al., *Nutrients* 2017: athletes' self-report vs. doubly labelled water](https://pubmed.ncbi.nlm.nih.gov/29207495/)
+- [Capling et al., *Nutrients* 2017: athletes' self-report vs. doubly labeled water](https://pubmed.ncbi.nlm.nih.gov/29207495/)
 - [Shcherbina et al., *J Pers Med* 2017: wearable energy expenditure](https://pubmed.ncbi.nlm.nih.gov/28538708/)
 
 **Sports nutrition science**
@@ -523,12 +523,12 @@ This is the strategic gap.
 - [Jiménez-Alfageme et al. 2025: Seville Marathon nutrition](https://pubmed.ncbi.nlm.nih.gov/40089940/)
 - [Masson and Lamarche 2016: non-elite multisport athletes' intake](https://pubmed.ncbi.nlm.nih.gov/27176786/)
 - [Janiczak et al. 2022: athletes' intake and knowledge](https://pubmed.ncbi.nlm.nih.gov/34706784/)
-- [Hansen et al. 2014: planned gel intake in amateur marathoners](https://pubmed.ncbi.nlm.nih.gov/24901444/)
+- [Hansen et al. 2014: planned gel intake in non-elite marathoners](https://pubmed.ncbi.nlm.nih.gov/24901444/)
 - [Smyth 2021: hitting the wall in 1.9 million marathon results](https://pubmed.ncbi.nlm.nih.gov/34010308/)
 - [Slater et al. 2016: LEA risk in recreational exercisers](https://pubmed.ncbi.nlm.nih.gov/26841435/)
 - [Henninger et al. 2024: trail runners' LEA and disordered-eating risk](https://pubmed.ncbi.nlm.nih.gov/38288400/)
 - [Lane et al. 2019: non-elite male endurance athletes' energy availability](https://pubmed.ncbi.nlm.nih.gov/31581498/)
-- [McHaffie et al. 2025: self-report vs. doubly labelled water in LEA](https://pubmed.ncbi.nlm.nih.gov/39145767/)
+- [McHaffie et al. 2025: self-report vs. doubly labeled water in LEA](https://pubmed.ncbi.nlm.nih.gov/39145767/)
 - [Csanaky et al. 2025: amateur endurance athletes' nutrition knowledge](https://pubmed.ncbi.nlm.nih.gov/41305679/)
 - [IFIC Spotlight: Perceptions of Protein (July 2025)](https://ific.org/wp-content/uploads/2025/07/IFIC-Spotlight-Survey-Protein-Perceptions.pdf)
 - [SantaBarbara et al. 2024: calorie tracking in resistance-trained women](https://pubmed.ncbi.nlm.nih.gov/39579199/)
@@ -631,5 +631,5 @@ This is the strategic gap.
 
 **Brand precedents cited in the strategy (read 6 October 2026)**
 - [Nike: About Nike ("If you have a body, you are an athlete")](https://about.nike.com/en)
-- [GoPro: company history and the origin of the name (Wikipedia)](https://en.wikipedia.org/wiki/GoPro)
 - [Dove Campaign for Real Beauty, launched in 2004 (Wikipedia)](https://en.wikipedia.org/wiki/Dove_Campaign_for_Real_Beauty)
+- [Retail Brew: Dove's Real Beauty campaign turns 20 (9 April 2024)](https://www.retailbrew.com/stories/2024/04/09/the-dove-real-beauty-campaign-celebrates-20-years-with-a-commitment-to-forgo-ai-in-advertising)
